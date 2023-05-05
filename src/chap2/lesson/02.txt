@@ -1,0 +1,7 @@
+コンパイルエラーが発生しない文は次のどれですか？２つ選択してください。
+
+A. char my_char = 'c';
+B. char your_char = 'int';
+C. char what = 'Hello';
+D. char what_char = 'L';
+E. char ok = '\u3456';

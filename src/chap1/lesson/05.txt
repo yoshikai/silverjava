@@ -1,0 +1,29 @@
+次のコードがあります。
+
+package com.se.ren;
+
+public class Sample{
+    public void print(){
+        System.out.println("hello");
+    }
+}
+
+Sampleクラスを利用した次のコードがあります。
+
+package com.se;
+[ ① ]
+
+public class Main{
+    public static void main(String[] args){
+        Sample obj = new Sample();
+        obj.print();
+    }
+}
+
+コンパイル、実行が成功するために、①の挿入するコードとして正しいものは次のどれですか。１つ選択してください。
+
+A. import com.se.ren;
+B. import com.se.*;
+C. import com.se.Sample;
+D. import com.se.ren.Sample;
+

@@ -1,0 +1,20 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String[] array = new String[3];
+        array[0] = 10;
+        array[1] = 20;
+        array[2] = 30;
+        System.out.println(array[0] + array[1] + array[2]);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？１つ選択してください。
+
+A. コンパイルエラー
+B. 実行時エラー
+C. 102030
+D. 60
+E. コードは実行されるが、何も出力されない
+

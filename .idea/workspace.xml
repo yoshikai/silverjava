@@ -4,404 +4,365 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="">
+    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter1の練習問題まで追加">
       <change afterPath="$PROJECT_DIR$/../projava/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../projava/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yoshi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/JavaSilver_JDKinstall.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/silver_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/lesson01/01_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/lesson01/01_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/lesson01/01_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/lesson01/01_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/lesson01/01_5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/lesson01/99_answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/p007/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/p012_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/p012_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/p017/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/p021/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/p025/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/p025/ren/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_09/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/_15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_13/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ex2_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_09/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_19/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_20/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_21/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_22/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/_23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ex3_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap4/ex4-9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-17/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-7/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/ex5-9/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/11/MyInter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/13/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/14/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/19/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/20/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/21/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/22/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/24/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/25/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/26/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/27/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/28/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/29/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/9/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-10/MySubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-11/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-12/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-13/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-15/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-16/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-17/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-19/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-20/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-21/FooImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-22/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-24/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-25/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-8/MySubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap6/ex6-9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-15/MyCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap7/ex7-9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/1/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/2/com.seshop.liba/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/2/com.seshop.liba/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/2/com.seshop.liba/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/2/com.seshop.sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/2/com.seshop.sample/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/3/com.seshop.liba/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/3/com.seshop.liba/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/3/com.seshop.libc/Third.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/3/com.seshop.libc/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/3/com.seshop.sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/3/com.seshop.sample/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/ex8-6/xyz.test/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/ex8-6/xyz.test/src/Play.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap8/ex8-6/xyz.test/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-19/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-20/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-21/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-22/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-24/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-25/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-26/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-27/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-28/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-29/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-3/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-30/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-31/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-32/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-33/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-34/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-36/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-37/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-38/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-38/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-39/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-40/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-41/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-42/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-43/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-44/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-45/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-46/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-47/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-48/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-49/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-5/src/com/se/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-50/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-51/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-52/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-53/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-54/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-55/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-56/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-57/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-58/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-59/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-60/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-61/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-62/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-63/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-64/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-65/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-66/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-66/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-66/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-67/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-68/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-69/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-71/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-72/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-73/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-79/code/Bar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-79/code/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-79/code/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/ex-9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-17/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-18/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-19/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-2/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-20/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-21/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-22/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-24/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-25/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-26/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-27/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-28/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-29/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-3/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-30/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-31/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-32/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-33/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-34/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-35/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-37/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-38/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-39/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-39/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-39/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-40/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-41/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-42/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-43/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-44/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-45/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-45/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-45/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-46/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-47/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-47/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-48/Bar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-49/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-50/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-51/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-52/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-53/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-54/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-55/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-56/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-57/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-58/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-59/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-60/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-61/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-62/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-63/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-64/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-65/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-66/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-67/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-68/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-69/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-71/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-72/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-73/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-78/my.exam/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-78/my.exam/Work.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-78/my.exam/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi2/ex-9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/lesson/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/p036/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/p047/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/p050/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2/p051/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap2p042/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap1/lesson01/01_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/lesson/01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap1/lesson01/01_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/lesson/02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap1/lesson01/01_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/lesson/03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap1/lesson01/01_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/lesson/04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap1/lesson01/01_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/lesson/05.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap1/lesson01/99_answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/lesson/99_answer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p037/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p041/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p043/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p045/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p046/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_08/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_09/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p052/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p054_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p054_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p055/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/_15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p057/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_13/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_13/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap2/ex2_9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/ex2_9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_07/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_08/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/_09/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4-9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/ex4_9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/10/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_10/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_04/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_07/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_08/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/_09/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_16/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-17/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_17/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-7/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_7/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap5/ex5-9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/10/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_10/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/11/MyInter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_11/MyInter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/13/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_13/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/14/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_14/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_16/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_17/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_18/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_19/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/20/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_20/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/21/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_21/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_22/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_23/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_24/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_25/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/26/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_26/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/27/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_27/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/28/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_28/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/29/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_29/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/4/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_04/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_07/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_08/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/9/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/_09/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-10/MySubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_10/MySubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-11/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_11/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-12/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_12/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-13/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_13/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-15/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_15/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-16/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_16/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-17/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_17/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_18/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_19/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-20/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_20/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-21/FooImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_21/FooImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_22/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_23/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_24/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_25/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-8/MySubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_8/MySubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6-9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/_01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/_03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/_04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/_05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/_06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/_07/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-15/MyCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_15/MyCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_16/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7-9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/1/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_01/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/2/com.seshop.liba/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_02/com.seshop.liba/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/2/com.seshop.liba/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_02/com.seshop.liba/Second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/2/com.seshop.liba/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_02/com.seshop.liba/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/2/com.seshop.sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_03/com.seshop.sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/2/com.seshop.sample/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_02/com.seshop.sample/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/3/com.seshop.liba/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_03/com.seshop.liba/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/3/com.seshop.liba/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_03/com.seshop.liba/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/3/com.seshop.libc/Third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_03/com.seshop.libc/Third.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/3/com.seshop.libc/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_03/com.seshop.libc/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/3/com.seshop.sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_02/com.seshop.sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/3/com.seshop.sample/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/_03/com.seshop.sample/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/ex8-6/xyz.test/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/ex8_6/xyz/test/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/ex8-6/xyz.test/src/Play.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/ex8_6/xyz/test/src/Play.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap8/ex8-6/xyz.test/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap8/ex8_6/xyz/test/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-10/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_10/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_16/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_17/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_18/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_19/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-20/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_20/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-21/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_21/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_22/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_23/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_24/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_25/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-26/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_26/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-27/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_27/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-28/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_28/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-29/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_29/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-3/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_3/a/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-30/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_30/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-31/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_31/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-32/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_32/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-33/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_33/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-34/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_34/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-36/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_36/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-37/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_37/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-38/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_38/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-38/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_38/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-39/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_39/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-40/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_40/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-41/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_41/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-42/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_42/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-43/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_43/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-44/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_44/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-45/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_45/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-46/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_46/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-47/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_47/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-48/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_48/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-49/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_49/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-5/src/com/se/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_5/src/com/se/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-50/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_50/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-51/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_51/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-52/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_52/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-53/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_53/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-54/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_54/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-55/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_55/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-56/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_56/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-57/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_57/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-58/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_58/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-59/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_59/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-60/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_60/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-61/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_61/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-62/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_62/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-63/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_63/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-64/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_64/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-65/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_65/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-66/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_66/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-66/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_66/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-66/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_66/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-67/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_67/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-68/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_68/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-69/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_69/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-71/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_71/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-72/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_72/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-73/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_73/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-79/code/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_79/xyz/Bar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-79/code/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_79/abc/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-79/code/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_79/code/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/ex-9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/ex_9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_16/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_17/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_18/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-19/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_19/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-2/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_2/bb/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_2/aa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-20/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_20/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-21/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_21/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_22/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-23/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_23/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_24/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_25/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-26/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_26/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-27/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_27/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-28/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_28/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-29/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_29/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-3/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_3/bb/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_3/aa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-30/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_30/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-31/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_31/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-32/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_32/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-33/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_33/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-34/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_34/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-35/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_35/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-37/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_37/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-38/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_38/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-39/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_39/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-39/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_39/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-39/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_39/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-40/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_40/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-41/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_41/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-42/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_42/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-43/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_43/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-44/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_44/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-45/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_45/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-45/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_45/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-45/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_45/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-46/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_46/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-47/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_47/Foo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-47/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_47/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-48/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_48/Bar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-49/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_49/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-50/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_50/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-51/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_51/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-52/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_52/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-53/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_53/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-54/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_54/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-55/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_55/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-56/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_56/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-57/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_57/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-58/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_58/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-59/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_59/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-60/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_60/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-61/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_61/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-62/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_62/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-63/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_63/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-64/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_64/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-65/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_65/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-66/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_66/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-67/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_67/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-68/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_68/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-69/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_69/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-71/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_71/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-72/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_72/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-73/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_73/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-78/my.exam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex-78/exam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-78/my.exam/Work.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex-78/exam/Work.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-78/my.exam/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex-78/exam/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi2/ex-9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi2/ex_9/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -439,7 +400,7 @@
     "project.structure.last.edited": "モジュール",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "build.tools"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -447,16 +408,31 @@
       <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src\chap2\lesson" />
+      <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src\mogi1\ex_79\code" />
       <recent name="C:\Users\yoshi\IdeaProjects\silver_java\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.sample">
+  <component name="RunManager" selected="アプリケーション.chap2.p036.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap1.p017.Main" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chap1.p017.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chap2.p036.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap2.p036.Main" />
+      <module name="silver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap2.p036.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -473,6 +449,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.chap2.p036.Main" />
         <item itemvalue="アプリケーション.sample" />
         <item itemvalue="アプリケーション.Main" />
       </list>
@@ -487,6 +464,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682471149231</updated>
     </task>
+    <task id="LOCAL-00001" summary="chapter1の練習問題まで追加">
+      <created>1683182887934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683182887934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,6 +484,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chapter1の練習問題まで追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter1の練習問題まで追加" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

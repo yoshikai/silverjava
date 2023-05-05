@@ -1,0 +1,21 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        int val1 = args[0];
+        int val2 = args[1];
+        System.out.println(val1 + val2);
+    }
+}
+
+実行するコマンドラインは以下の引数を渡すとします。
+
+java Main 10 20
+
+実行した結果として正しいものは次のどれですか？１つ選択してください。
+
+A. コンパイルエラー
+B. 実行時エラー
+C. 30
+D. 1020
+E. 10 20

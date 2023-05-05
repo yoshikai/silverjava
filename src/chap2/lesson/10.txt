@@ -1,0 +1,19 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(args[0] + args[1]);
+    }
+}
+
+実行するコマンドラインは以下の引数を渡すとします。
+
+java Main "hello hello" bye
+
+実行した結果として正しいものは次のどれですか？１つ選択してください。
+
+A. コンパイルエラー
+B. 実行時エラー
+C. hello hello
+D. hellohello
+E. hello hello bye

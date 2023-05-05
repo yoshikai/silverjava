@@ -1,0 +1,21 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        int val1 = 10;
+        final double val2 = 1.1;
+        System.out.print(val1 * val2 + " ");
+        val1 = 100;
+        val2 = 1.2;
+        System.out.print(val1 * val2);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？１つ選択してください。
+
+A. 4行目でコンパイルエラー
+B. 5行目でコンパイルエラー
+C. 7行目でコンパイルエラー
+D. 8行目でコンパイルエラー
+E. 11 120
+F. 11.0 120.0
