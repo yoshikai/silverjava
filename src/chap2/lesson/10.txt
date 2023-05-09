@@ -16,4 +16,4 @@ A. コンパイルエラー
 B. 実行時エラー
 C. hello hello
 D. hellohello
-E. hello hello bye
+E. hello hellobye

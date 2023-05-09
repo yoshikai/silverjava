@@ -3,5 +3,5 @@
 A. char my_char = 'c';
 B. char your_char = 'int';
 C. char what = 'Hello';
-D. char what_char = 'L';
+D. char what_char = "L";
 E. char ok = '\u3456';
