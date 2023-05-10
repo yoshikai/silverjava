@@ -1,0 +1,17 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String str = "existence";
+        str.replace("e", "*");
+        System.out.println(str);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. *xist*nc*
+B. *existence
+C. existence
+D. コンパイルエラー
+E. 実行時エラー

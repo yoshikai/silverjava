@@ -1,0 +1,20 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("ANS:" + 9 + 1 + 2);
+        System.out.println("ANS:" + (9 + 1) + 2);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. ANS:12
+   ANS:12
+B. ANS:912
+   ANS:12
+C. ANS:912
+   ANS:102
+D. ANS:912
+   ANS:912
+E. コンパイルエラー

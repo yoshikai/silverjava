@@ -1,0 +1,22 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        Integer num = 100;
+        switch (num) {
+            case "10":
+                System.out.print("A ");
+            case "100":
+                System.out.print("B ");
+            default:
+                System.out.print("C");
+        }
+    }
+}
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. B
+B. B C
+C. C
+D. コンパイルエラー
+E. 実行時エラー

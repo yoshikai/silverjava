@@ -1,0 +1,12 @@
+次のコードがあります。
+
+StringBuilder sb = new StringBuilder("hello");
+
+sbが保持する文字をすべて削除するコードとして正しいものは次のどれですか？
+
+A. sb.delete();
+B. sb.deleteAll();
+C. sb.delete(0, sb.length());
+D. sb.delete(0, sb.size());
+E. sb.remove();
+F. sb.removeAll();

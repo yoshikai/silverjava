@@ -7,38 +7,25 @@
     <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter2の練習問題解説まで追加">
       <change afterPath="$PROJECT_DIR$/../projava/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../projava/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p095/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p100/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p101/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p104/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p106/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/18.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/lesson/99_answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/99_answer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/p043/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p043/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2p042/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p042/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p071/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p072/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p073/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p075/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p077/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p079/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p080/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p082/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_09/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p083/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p084/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p084_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p086/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p087/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p090/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p093/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_16/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p098/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p099/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_19/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_20/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_21/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p105/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/_23/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,18 +54,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Users/yoshi/IdeaProjects/silver_java/src/chap2/lesson",
-    "project.structure.last.edited": "モジュール",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yoshi/IdeaProjects/silver_java/src/chap2/lesson&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;モジュール&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src\chap2\lesson" />

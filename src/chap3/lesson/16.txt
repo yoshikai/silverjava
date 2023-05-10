@@ -1,0 +1,20 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        StringBuilder str = new StringBuilder("0123 456 ");
+        if (str.length() == 9)
+            str.insert(9, "abcde");
+        str.delete(2, 5);
+        System.out.println(str.indexOf("d"));
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. 9
+B. 8
+C. 7
+D. -1
+E. コンパイルエラー
+F. 実行時エラー

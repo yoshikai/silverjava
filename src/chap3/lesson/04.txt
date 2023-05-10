@@ -1,0 +1,15 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        if (11.00f == 11) System.out.print("A ");
+        if (123L != 123) System.out.print("B");
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. コードは実行されるが、何も出力されない
+B. A B
+C. A
+D. B

@@ -1,0 +1,18 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String str = "12345";
+        str += 6789;
+        str -= 6789;
+        str += 0;
+        System.out.println("str : " + str);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. 12345
+B. 123450
+C. コンパイルエラー
+D. 実行時エラー

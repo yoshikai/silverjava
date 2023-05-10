@@ -1,0 +1,28 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        int i = 5;
+        int j = 10;
+        int k = 15;
+        if ((i < j) || (k-- > j)) {
+            System.out.println("First if, value of k: " + k);
+        }
+        if ((i < j) && (--k < j)) {
+            System.out.println("Second if, value of k: " + k);
+        }
+        System.out.println("Out of if, k: " + k);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. Firtst it, value of k: 14
+   Out of it, k: 13
+B. Firtst it, value of k: 15
+   Out of it, k: 14
+C. Firtst it, value of k: 15
+   Out of it, k: 13
+D. コードは実行されるが、何も出力されない
+E. コンパイルエラー
+F. 実行時エラー

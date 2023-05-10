@@ -1,0 +1,19 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String str1 = new String("Java");
+        String str2 = str1;
+        if (str1 == str2) System.out.println("==");
+        if (str1.equals(str2)) System.out.println("equals");
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. ==
+B. equals
+C. ==
+   equals
+D. コードは実行されるが、何も出力されない
+E. コンパイルエラー

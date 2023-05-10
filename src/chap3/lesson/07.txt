@@ -1,0 +1,9 @@
+switch文の式に使用できるデータ型として正しいものは次のどれですか？3つ選択してください。
+
+A. int
+B. double
+C. float
+D. Integer
+E. Double
+F. String
+
