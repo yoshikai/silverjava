@@ -4,28 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter2の練習問題解説まで追加">
+    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter3の練習問題解説まで追加">
       <change afterPath="$PROJECT_DIR$/../projava/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../projava/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/99_answer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_11/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_12/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_13/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_14/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_16/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_17/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_18/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_9/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683628048562</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chapter3の練習問題解説まで追加">
+      <created>1683705511455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683705511455</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +173,8 @@
     <MESSAGE value="chapter1の練習問題まで追加" />
     <MESSAGE value="chapter2の練習問題まで追加" />
     <MESSAGE value="chapter2の練習問題解説まで追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter2の練習問題解説まで追加" />
+    <MESSAGE value="chapter3の練習問題解説まで追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter3の練習問題解説まで追加" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
