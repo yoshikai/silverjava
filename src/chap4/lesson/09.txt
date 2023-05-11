@@ -1,0 +1,22 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        int[] ary = {10, 20, 30, 40, 50};
+        int i = 5;
+        for (int a : ary) {
+            while (i < ary.length) {
+                i++;
+                System.out.print(i + " ");
+            }
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. コンパイルエラー
+B. コードは実行されるが、何も出力されない
+C. 10 20 30 40 50
+D. 1 2 3 4 5
+E. 6 7 8 9 10

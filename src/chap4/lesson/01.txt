@@ -1,0 +1,28 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        for (String s : args) {
+            switch (s) {
+                case "one":
+                    break;
+                case "two":
+                    continue;
+            }
+            System.out.print(s + " ");
+        }
+    }
+}
+
+実行する際は次とします。
+
+java Main one two three
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. one
+B. one two
+C. one three
+D. one two three
+E. コンパイルエラー
+F. コードは実行されるが、何も出力されない

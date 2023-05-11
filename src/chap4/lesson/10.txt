@@ -1,0 +1,26 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String[] ary = {"Orange", "Apple", "Banana"};
+        for (String str : ary) {
+            switch (str) {
+                case "Orange":
+                    System.out.print("Orange ");
+                case "Apple":
+                    System.out.print("Apple ");
+                    break;
+                default:
+                    System.out.print("other ");
+            }
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. Orange Apple other
+B. Orange Apple Apple other
+C. Orange other Apple other
+D. コンパイルエラー
+E. 実行時エラー

@@ -7,24 +7,50 @@
     <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter3の練習問題解説まで追加">
       <change afterPath="$PROJECT_DIR$/../projava/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../projava/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/lesson/99_answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/13,txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4/lesson/99_answer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_10/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_11/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_12/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_13/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_14/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_16/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_17/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_18/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_6/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_8/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/ex3_9/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p125/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p126/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p128/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p129/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p131/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p132/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p135/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p136/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_09/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p138/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p139/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/_11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p141/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_10/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_11/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_12/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_13/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_14/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_15/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/ex4_9/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,18 +79,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yoshi/IdeaProjects/silver_java/src/chap2/lesson&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;モジュール&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/yoshi/IdeaProjects/silver_java/src/chap2/lesson",
+    "project.structure.last.edited": "モジュール",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src\chap2\lesson" />
@@ -155,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683705511455</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chapter3の練習問題解説まで追加">
+      <created>1683720916435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683720916435</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

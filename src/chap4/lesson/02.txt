@@ -1,0 +1,22 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String[] arrays = {"xxx", "yyy", "zzz"};
+        [ 1 ]
+    }
+}
+
+arrays配列がもつ各要素を出力したいと考えています。
+空欄1に挿入するコードとして正しいものは次のどれですか？2つ選択してください。
+
+A. for(String arrays : s) System.out.println(arrays);
+B. for(String s ; arrays) System.out.println(s);
+C. foreach(arrays) System.out.println(arrays);
+D. while(arrays.hasNext()) System.out.println(arrays.next());
+E. foreach(String arrays : s) System.out.println(s);
+F. for(String s arrays) System.out.println(s);
+G. for(int i=0 i<arrays.length(); i++)
+       System.out.println(arrays[i]);
+H. for(int i=0 i<arrays.length; i++)
+       System.out.println(arrays[i]);

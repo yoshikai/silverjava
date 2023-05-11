@@ -1,0 +1,23 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String[] ary1 = new String[2];
+        String[] ary2 = {new String("A"), "B"};
+        for (String s : ary1) {
+            System.out.print(s + " ");
+        }
+        for (String s : ary2) {
+            System.out.print(s + " ");
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. A B
+B. null null A B
+C. 4行目でコンパイルエラー
+D. 4行目、5行目、6行目でコンパイルエラー
+E. 6行目でコンパイルエラー
+F. 実行時エラー

@@ -1,0 +1,25 @@
+
+
+public class Main {
+    public static void main(String[] args) {
+        int[][] ary = {{1, 2}, {3, 4}};
+        for (int x = 0; x < ary.length; x++) {
+            for (int y = 0; y < ary.length; y++) {
+                // ここにコードを挿入
+                System.out.print(ary[x][y] + " ");
+            }
+        }
+    }
+}
+
+4行目から9行目の処理では、各要素値を2乗した後、ary配列に再代入し
+以下のような結果を出力したいとします。
+
+1 4 9 16
+
+6行目に挿入するコードして正しいものは次のどれですか？1つ選択してください。
+
+A. ary[x][y] = x * y;
+B. ary[x][y] = ary[x] * ary[y];
+C. ary[x][y] = ary[x, y] * ary[x, y];
+D. ary[x][y] = ary[x][y] * ary[x][y];

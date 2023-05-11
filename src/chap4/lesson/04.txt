@@ -1,0 +1,22 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] arg) {
+        int i = 2;
+        Outer:
+        if (i < 5) {
+            System.out.println("i: " + i);
+            i++;
+            continue Outer;
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. コンパイルエラー
+B. i: 2
+   i: 3
+   i: 4
+C. i: 2
+D. 実行時エラー

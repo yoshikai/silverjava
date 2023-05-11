@@ -1,0 +1,22 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String[][] ary = {{"a", "b"},
+                {"c", "d", null, null, null}};
+        for (int x = 0; x < ary.length; x++) {
+            for (int y = 0; y < ary.length; y++) {
+                System.out.print(ary[x][y] + " ");
+            }
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. 実行時エラー
+B. コンパイルエラー
+C. a b c d
+D. a b c d null null null
+E. a c b d
+F. a c b d null null null

@@ -1,0 +1,21 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String[] ary = {"a", "b", "c"};
+        for (String s : ary) {
+            int i = 0;
+            while (i < ary.length) {
+                i++;
+                System.out.print(i + " ");  //8行目ココ
+            }
+        }
+    }
+}
+
+8行目の出力コードが呼び出される回数として正しいものは次のどれですか？1つ選択してください。
+
+A. 3回
+B. 6回
+C. 9回
+D. 一度も呼び出されない

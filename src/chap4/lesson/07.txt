@@ -1,0 +1,19 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        int j = 0;
+        for (int i = [  1  ]; i > 15; i--){
+            j++;
+            System.out.print(j + " ");
+        }
+    }
+}
+
+1に挿入すると、1 2 3 4 5と出力する値は次のどれですか？1つ選択してください。
+
+A. 0
+B. 5
+C. 10
+D. 20
+E. 21

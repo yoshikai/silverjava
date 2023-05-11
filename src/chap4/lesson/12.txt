@@ -1,0 +1,29 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        int[] ary = {1, 2, 3, 4, 5};
+        int i = 1;
+        while (i < ary.length) {
+            i++;
+            if (i == 2) {
+                [  1  ]
+            }
+            System.out.print(i + " ");
+            if (i > 3) {
+                [  2  ]
+            }
+        }
+    }
+}
+
+1,2に挿入すると、3,4と出力する値は次のどれですか？1つ選択してください。
+
+A. 1. continue;
+   2. continue;
+B. 1. continue;
+   2. break;
+C. 1. break;
+   2. continue;
+D. 1. break;
+   2. break;
