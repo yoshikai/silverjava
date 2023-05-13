@@ -1,16 +1,16 @@
-package mogi1.ex;
+package mogi1.ex_38;
 
-import a.A;
+//import a.A; //NGのためコメントアウト
 
-public class B extends A {
-    public B(int num) {
-        super(num);
-    }
-}
+//public class B extends A { //NGのためコメントアウト
+//    public B(int num) {    //NGのためコメントアウト
+//        super(num);
+//    }
+//}
 
 class Main {
     public static void main(String[] args) {
-        B obj = new B(10);
-        obj.getNum();
+//        B obj = new B(10);   //NGのためコメントアウト
+//        obj.getNum();
     }
 }

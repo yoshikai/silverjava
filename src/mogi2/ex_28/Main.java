@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_28;
 
 public class Main {
     static int compute() {

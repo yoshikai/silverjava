@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_12;
 
 public class Main {
     static String str = "Hi ";

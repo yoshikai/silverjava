@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_17;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,8 +6,8 @@ public class Main {
         String[] s2 = {"TUE"};
         final String s3 = "FRI";
         switch (s2[0]) {
-            case s1:
-                System.out.print("Monday ");
+//            case s1:    //NGのためコメントアウト
+//                System.out.print("Monday ");
             case "TUE":
                 System.out.print("Tuesday ");
             case s3:

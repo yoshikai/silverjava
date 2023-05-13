@@ -1,7 +1,7 @@
-package mogi1.ex;
+package mogi1.ex_66;
 
-import com.abc.A;
-import com.xyz.B;
+//import com.abc.A;   //NGのためコメントアウト
+//import com.xyz.B;
 
 public class Main {
     public static void main(String[] args) {

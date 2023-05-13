@@ -1,4 +1,4 @@
-package chap5._09;
+package chap5.p183;
 
 class Test {
     int instanceVal = 100;

@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_61;
 
 interface Calc {
     public int exec(int x, int y);

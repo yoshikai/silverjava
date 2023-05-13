@@ -1,4 +1,4 @@
-package mogi2.ex;
+package mogi2.ex_39.abc;
 
 public class A {
     private int num;

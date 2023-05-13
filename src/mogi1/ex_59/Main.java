@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_59;
 
 public class Main {
     public void methodA() {
@@ -6,9 +6,9 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        mogi1.ex_79.abc.Foo f = new mogi1.ex_79.abc.Foo();
-        Main m = new mogi1.ex_79.abc.Foo();
-        f = m;
+        Foo f = new Foo();
+        Main m = new Foo();
+//        f = m;  //NGのためコメントアウト
         m.methodA();
         f.methodA();
     }

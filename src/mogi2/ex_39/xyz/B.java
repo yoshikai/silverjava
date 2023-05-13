@@ -1,6 +1,6 @@
-package mogi2.ex;
+package mogi2.ex_39.xyz;
 
-import abc.A;
+import mogi2.ex_39.abc.A;
 
 public class B extends A {
     public B(int num) {

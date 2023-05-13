@@ -19,9 +19,9 @@ public class MyCar extends Vehicle {
         return year;
     }
 
-    int getSpeed() throws IOException {
-        return speed;
-    }
+//    int getSpeed() throws IOException {  //NGのためコメントアウト
+//        return speed;
+//    }
 }
 
 class Vehicle {

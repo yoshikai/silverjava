@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_60;
 
 import java.util.ArrayList;
 import java.util.Arrays;

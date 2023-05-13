@@ -1,3 +1,3 @@
-module com.seshop.liba {
-    exports com.seshop.sample.firstpkg;
-} 
+//module com.seshop.liba {
+//    exports com.seshop.sample.firstpkg;
+//}

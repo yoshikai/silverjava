@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_39;
 
 class A {
     static String val;

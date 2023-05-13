@@ -7,11 +7,11 @@ public class Main {
     }
 
     static void x() {
-        y();
+//        y(); //NGのためコメントアウト
         System.out.print("2 ");
     }
 
-    static void y() {
-        throw new Exception();
-    }
+//    static void y() {
+//        throw new Exception();    //NGのためコメントアウト
+//    }
 }

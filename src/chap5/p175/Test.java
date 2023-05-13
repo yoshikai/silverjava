@@ -1,4 +1,4 @@
-package chap5._04;
+package chap5.p175;
 
 class Test {
     String myPrint(int a, String b) {

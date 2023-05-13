@@ -1,4 +1,4 @@
-package mogi1.ex;
+package mogi1.ex_66;
 
 public class A {
     public int x = 40;

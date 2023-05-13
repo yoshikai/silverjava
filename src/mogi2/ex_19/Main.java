@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_19;
 
 public class Main {
     static double ans;
@@ -13,8 +13,8 @@ public class Main {
             num1 = 20;
             num2 = 5;
         }
-        ans = num1 * num2;
-        System.out.println(ans);
+//        ans = num1 * num2;  //NGのためコメントアウト
+//        System.out.println(ans);
 
     }
 }

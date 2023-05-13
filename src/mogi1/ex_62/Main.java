@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_62;
 
 class A {
     private void print() {

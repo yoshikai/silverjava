@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_58;
 
 import java.util.HashMap;
 import java.util.Map;

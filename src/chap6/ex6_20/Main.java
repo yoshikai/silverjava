@@ -5,19 +5,19 @@ import java.util.List;
 import java.util.Map;
 
 class Parent {
-    <T> Collection<T> foo(Collection c) {
-        return null;
-    }
-
-    <T> List<T> foo(List c) {
-        return null;
-    }
-
-    <T> List<T> foo(Collection c) {
-        return null;
-    }
-
-    <T> Collection<T> foo(Map c) {
-        return null;
-    }
+//    <T> Collection<T> foo(Collection c) {  //NGのためコメントアウト
+//        return null;
+//    }
+//
+//    <T> List<T> foo(List c) {
+//        return null;
+//    }
+//
+//    <T> List<T> foo(Collection c) {
+//        return null;
+//    }
+//
+//    <T> Collection<T> foo(Map c) {
+//        return null;
+//    }
 }

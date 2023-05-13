@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_55;
 
 class A {
     final int num;
@@ -19,9 +19,9 @@ class A {
 class B extends A {
     int num = 10;
 
-    void method() {
-        System.out.print("B:method");
-    }
+//    void method() {      //NGのためコメントアウト
+//        System.out.print("B:method");
+//    }
 }
 
 public class Main {

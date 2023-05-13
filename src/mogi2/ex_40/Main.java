@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_40;
 
 public class Main {
     public static void foo(String... args) {
@@ -9,7 +9,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        mogi2.ex_78.my.exam.Main obj = null;
-        obj.foo();
+        mogi2.ex_78.my_exam.abc.Main obj = null;
+//        obj.foo();  //NGのためコメントアウト
     }
 }

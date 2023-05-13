@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_24;
 
 public class Main {
     public static boolean methodA() {

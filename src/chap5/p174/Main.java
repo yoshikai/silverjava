@@ -1,4 +1,4 @@
-package chap5._03;
+package chap5.p174;
 
 class Test {
     void myPrint() {
@@ -20,7 +20,7 @@ class Test {
 
 public class Main {
     public static void main(String[] args) {
-        Test t = new Test(); // Test�N���X�̃C���X�^���X��
+        Test t = new Test(); // Testクラスのインスタンス化
         t.myPrint();
         t.myPrint(100);
         t.myPrint(100, 200);

@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_60;
 
 interface A {
     Object method();
@@ -12,5 +12,5 @@ interface C extends A {
     Double[] method();
 }
 
-interface D extends B, C {
-}
+//interface D extends B, C {   //NGのためコメントアウト
+//}

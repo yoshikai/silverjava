@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_72;
 
 public class Main {
     private int num = 100, div = 0;
@@ -15,7 +15,7 @@ public class Main {
         }
     }
 
-    public static void main(String[] args) {
-        new mogi2.ex_78.my.exam.Main().divide();
-    }
+//    public static void main(String[] args) {
+//        new mogi2.ex_78.my.exam.Main().divide();
+//    }   //NGのためコメントアウト
 }

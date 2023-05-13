@@ -1,4 +1,4 @@
-package chap5._05;
+package chap5.p176;
 
 class Employee {
     int id;

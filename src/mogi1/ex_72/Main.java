@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_72;
 
 public class Main {
     void methodA() throws Exception {
@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
         Main obj = new Main();
-        obj.methodA();   // line3
+//        obj.methodA();   // line3   //NGのためコメントアウト
         obj.methodB();   // line4
     }
 }

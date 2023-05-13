@@ -1,4 +1,4 @@
-package chap5._07;
+package chap5.p179;
 
 class Test {
     public void method(String... val) {

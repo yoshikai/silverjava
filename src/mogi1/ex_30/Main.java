@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_30;
 
 public class Main {
     public static void main(String[] args) {

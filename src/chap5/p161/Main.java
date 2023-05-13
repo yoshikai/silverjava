@@ -1,4 +1,4 @@
-package chap5._01;
+package chap5.p161;
 
 class Employee {
 }

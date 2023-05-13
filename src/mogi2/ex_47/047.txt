@@ -1,0 +1,21 @@
+package x;
+public class Foo {
+    public static void method() {
+    }
+}
+
+package x.y;
+[  1  ]
+public class Main {
+    public static void main(String[] args) {
+    [  2  ]
+    }
+}
+
+コンパイル・実行ともに成功する説明として正しいものは次のどれですか？２つ選択してください。
+
+A. 1に「import x.Foo;」、2に「x.Foo.method();」を挿入する
+B. 1には何も書かずに、2に「x.Foo.method();」を挿入する
+C. 1に「import x;」、2に「new Foo.method();」を挿入する
+D. 1に「import x;」、2に「Foo.method();」を挿入する
+E. 1には何も書かずに、2に「Foo.method();」を挿入する

@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_49;
 
 import java.util.Collection;
 
@@ -9,6 +9,5 @@ class Parent {
 }
 
 class Child extends Parent {
-[   �
-    @   ]
+    //[ 1 ]
 }

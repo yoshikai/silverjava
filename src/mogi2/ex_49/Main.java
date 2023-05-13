@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_49;
 
 interface MyInter {
     void method();

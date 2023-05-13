@@ -1,18 +1,18 @@
-package mogi1.ex
+package mogi1.ex_10;
 
 import java.util.ArrayList;
 
 public class Test {
-    var name = "test";   // �@
+//    var name = "test";   //NGのためコメントアウト 1
 
-    void exe(var data) {   // �A
-        var emp = new Employee();   // �B
-        var list = new ArrayList<>();   // �C
-        var final point =10;    // �D
-        for (var e = 0; e < 10; e++) { // �E
-            //code more
-        }
-    }
+//    void exe(var data) {   //NGのためコメントアウト 2
+//        var emp = new Employee();   // 3
+//        var list = new ArrayList<>();   // 4
+////        var final point =10;    //NGのためコメントアウト 5
+//        for (var e = 0; e < 10; e++) { // 6
+//            // more code...
+//        }
+//    }
 }
 
 class Employee {

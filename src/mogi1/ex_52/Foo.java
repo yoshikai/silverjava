@@ -1,12 +1,12 @@
-package mogi1.ex
+package mogi1.ex_52;
 
 public interface Foo {
     public default int a() {
         return 0;
     }
 
-    private default void b() {
-    }
+//    private default void b() {  //NGのためコメントアウト
+//    }
 
     public default int c(int num) {
         return 0;

@@ -1,9 +1,8 @@
-package mogi2.ex
+package mogi2.ex_59;
 
 abstract class Super {
     int num;
-  [   �
-    @   ]
+    //[  1  ]
 
     Super(int num) {
         this.num = num;
@@ -14,10 +13,10 @@ abstract class Super {
     }
 }
 
-class Sub extends Super {
-  [   �A   ]
-
-    protected void method() {
-        System.out.println("Sub:method()");
-    }
-}
+//class Sub extends Super {   //NGのためコメントアウト
+//    //[  2  ]
+//
+//    protected void method() {
+//        System.out.println("Sub:method()");
+//    }
+//}

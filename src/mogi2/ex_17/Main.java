@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_17;
 
 public class Main {
     public static void main(String[] args) {
@@ -12,12 +12,12 @@ public class Main {
             case 10 * 2:
                 System.out.print("B ");
                 break;
-            case data:
-                System.out.print("C ");
-                break;
-            case "40":
-                System.out.print("D ");
-                break;
+//            case data:  //NGのためコメントアウト
+//                System.out.print("C ");
+//                break;
+//            case "40"://NGのためコメントアウト
+//                System.out.print("D ");
+//                break;
         }
     }
 }

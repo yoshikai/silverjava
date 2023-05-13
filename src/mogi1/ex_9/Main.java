@@ -1,10 +1,10 @@
-package mogi1.ex
+package mogi1.ex_9;
 
 public class Main {
     public static void main(String[] args) {
-        String ccc# ="aa";
+//        String ccc# ="aa";  //NGのためコメントアウト
 
-        boolean true = (4 == 4);
+//        boolean true = (4 == 4);    //NGのためコメントアウト
 
         char c = 'a';
         short s = (short) c;
@@ -14,6 +14,6 @@ public class Main {
         short x = (short) 'A';
 
         short y = 100;
-        char z = y;
+//        char z = y; //NGのためコメントアウト
     }
 }

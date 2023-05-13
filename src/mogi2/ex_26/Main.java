@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_26;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,8 +8,8 @@ public class Main {
                 i++;
             case "b":
                 i++;
-            case "c" | "d":
-                i++;
+//            case "c" | "d": //NGのためコメントアウト
+//                i++;
             case "e":
                 i++;
                 break;

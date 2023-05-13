@@ -1,3 +1,3 @@
-module com.seshop.libc {
-    exports com.seshop.sample.thirdpkg;
-} 
+//module com.seshop.libc {
+//    exports com.seshop.sample.thirdpkg;
+//}

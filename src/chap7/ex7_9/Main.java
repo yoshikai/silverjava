@@ -8,8 +8,8 @@ public class Main {
             System.out.println("x[3]: " + x[3]);
         } catch (Exception e) {
             System.out.println("ex1");
-        } catch (ArrayIndexOutOfBoundsException oe) {
-            System.out.println("ex2");
+//        } catch (ArrayIndexOutOfBoundsException oe) {  //NGのためコメントアウト
+//            System.out.println("ex2");
         } finally {
             System.out.println("finally block");
         }

@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_68;
 
 class Foo {
     private void a() {
@@ -18,8 +18,8 @@ class Bar extends mogi2.ex_3.bb.Foo {
 }
 
 public class Main {
-    public static void main(String[] args) {
-        new Bar().b();
-    }
+//    public static void main(String[] args) {
+//        new Bar().b();
+//    }   //NGのためコメントアウト
 }
     

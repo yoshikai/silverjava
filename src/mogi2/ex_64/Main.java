@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_64;
 
 import java.util.Arrays;
 import java.util.List;

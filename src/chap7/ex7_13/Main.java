@@ -8,9 +8,9 @@ class P {
 }
 
 class C extends P {
-    public void strToNum(String s) throws Exception {
-        System.out.println("C : " + Integer.parseInt(s));
-    }
+//    public void strToNum(String s) throws Exception {    //NGのためコメントアウト
+//        System.out.println("C : " + Integer.parseInt(s));
+//    }
 }
 
 public class Main {

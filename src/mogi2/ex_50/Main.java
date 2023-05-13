@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_50;
 
 class A {
     void x() {

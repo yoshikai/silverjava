@@ -1,6 +1,6 @@
-package mogi1.ex;
+package mogi1.ex_66;
 
-import com.abc.A;
+//import com.abc.A;      //NGのためコメントアウト
 
 public class B extends A {  // line1
     public int x = 50;  // line2

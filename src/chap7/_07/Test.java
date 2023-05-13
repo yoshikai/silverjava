@@ -18,15 +18,15 @@ class SubB extends Super {
     }
 }
 
-class SubC extends Super {
-    void method() throws Exception {
-    }
-}
+//class SubC extends Super {     //NGのためコメントアウト
+//    void method() throws Exception {
+//    }
+//}
 
-class SubD extends Super {
-    void method() throws ClassNotFoundException {
-    }
-}
+//class SubD extends Super {     //NGのためコメントアウト
+//    void method() throws ClassNotFoundException {
+//    }
+//}
 
 class SubE extends Super {
     void method() throws RuntimeException {

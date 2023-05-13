@@ -11,7 +11,7 @@ public class Main {
             int i = Integer.parseInt(s);
             System.out.println(i);
         } catch (Exception e) {
-            System.out.println("caught exception : " + i);
+//            System.out.println("caught exception : " + i); //NGのためコメントアウト
         }
     }
 }

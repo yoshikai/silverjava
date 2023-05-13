@@ -6,14 +6,14 @@ class A {
     }
 }
 
-class B extends A {
-    B() {
-        System.out.println("Hello from B.");
-    }
-}
+//class B extends A {
+//    B() {
+//        System.out.println("Hello from B.");
+//    }    //NGのためコメントアウト
+//}
 
-public class Main {
-    public static void main(String[] args) {
-        B b = new B();
-    }
-}
+//public class Main { //NGのためコメントアウト
+//    public static void main(String[] args) {
+//        B b = new B();
+//    }
+//}

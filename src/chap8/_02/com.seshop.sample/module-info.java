@@ -1,3 +1,3 @@
-module com.seshop.sample {
-    requires com.seshop.liba;
-} 
+//module com.seshop.sample {
+//    requires com.seshop.liba;
+//}

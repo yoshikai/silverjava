@@ -1,15 +1,15 @@
-package mogi2.ex
+package mogi2.ex_57;
 
 class Super {
-    A foo() {
-        //more code
-        return new A();
-    }
+//    A foo() {   //NGのためコメントアウト
+//        //more code
+//        return new A();
+//    }
 }
 
 class Sub extends Super {
-    B foo() {
-        //more code
-        return new B();
-    }
+//    B foo() {      //NGのためコメントアウト
+//        //more code
+//        return new B();
+//    }
 }

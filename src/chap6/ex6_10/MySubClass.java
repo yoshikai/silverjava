@@ -11,7 +11,7 @@ class MySuperClass {
 
 class MySubClass extends MySuperClass {
     public static void main(String[] args) {
-        new MySubClass();
+//        new MySubClass();
         new MySubClass(3);
     }
 
@@ -19,7 +19,7 @@ class MySubClass extends MySuperClass {
         super(i);
     }
 
-    MySubClass() {
-        System.out.println("Default");
-    }
+//    MySubClass() {     //NGのためコメントアウト
+//        System.out.println("Default");
+//    }
 }

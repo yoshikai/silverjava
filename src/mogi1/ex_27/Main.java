@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_27;
 
 public class Main {
     static String data;

@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_53;
 
 class Parent {
     String name = "A";

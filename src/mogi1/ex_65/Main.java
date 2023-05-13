@@ -1,4 +1,4 @@
-package mogi1.ex
+package mogi1.ex_65;
 
 import java.util.List;
 

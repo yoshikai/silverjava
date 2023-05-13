@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_41;
 
 class A {
     private boolean check() {
@@ -8,9 +8,9 @@ class A {
 
 class B extends A {
     void foo() {
-        if (check()) {
-            System.out.println("Java");
-        }
+//        if (check()) {  //NGのためコメントアウト
+//            System.out.println("Java");
+//        }
     }
 }
 

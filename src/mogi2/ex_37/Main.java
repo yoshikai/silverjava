@@ -1,4 +1,4 @@
-package mogi2.ex
+package mogi2.ex_37;
 
 class Foo {
     int valA;
@@ -6,6 +6,5 @@ class Foo {
     int valC;
     int valD;
     int valE;
-  [   �
-    @   ]
+    //[ 1 ]
 }
