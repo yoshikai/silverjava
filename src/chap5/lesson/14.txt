@@ -1,0 +1,27 @@
+次のコードがあります。
+
+public class Main {
+    int val;
+    static void x(int val) {
+        val = 9;
+        System.out.print(val + " ");
+    }
+    public static void main(String[] args) {
+        Main obj = new Main();              //8
+        obj.val = 8;                        //9
+        int val = 10;                       //10
+        System.out.print(val + " ");        //11
+        x(val);                             //12
+        System.out.print(val + " ");        //13
+        System.out.print(obj.val + " ");    //14
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. 8 9 10 8
+B. 8 9 10 10
+C. 8 8 8 8
+D. 10 9 9 8
+E. 10 9 10 8
+F. 10 8 9 8

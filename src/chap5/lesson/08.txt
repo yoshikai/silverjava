@@ -1,0 +1,16 @@
+次のコードがあります。
+
+public class Main {
+    [  1  ]
+    public static void main(String[] args) {
+        foo(args);
+    }
+}
+
+1.に挿入すると、hiと出力するコードが次のどれですか？2つ選択してください。
+
+A. static void foo(String... s) {System.out.print("hi");}
+B. static void foo(String[] s) {System.out.print("hi");}
+C. static void foo(String s) {System.out.print("hi");}
+D. static void foo(char[] s) {System.out.print("hi");}
+E. static void foo(null s ) {System.out.print("hi");}

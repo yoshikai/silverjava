@@ -1,0 +1,33 @@
+次のコードがあります。
+
+public class Main {
+    int x = 3;              //2行目
+    static int y = 2;       //3行目
+
+    public static void main(String[] args) {
+        int x = 10;         //6
+        int y = 10;         //7
+        Main obj = new Main();
+        obj.printIt();      //9
+        obj.printIt(y);     //10
+    }
+
+    Main() { x = x + 1;}    //13
+    static { y += y;}       //14
+
+    void printIt() {
+        System.out.print(++x);
+    }
+    void printIt(int y) {
+            System.out.print(" " + ++y);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. 5 11
+B. 11 11
+C. 5 5
+D. 17行目でコンパイルエラー
+E. 5行目と6行目でコンパイルエラー
+

@@ -1,0 +1,34 @@
+次のコードがあります。
+
+class Foo1 {
+    int x;
+    void setX(int x) {this.x = x; }
+    int getX() { return x; }
+}
+
+class Foo2 {
+    Foo1 f;
+    void setFoo1(Foo1 f) { this.f = f;}
+    Foo1 getFoo1() { return f;}
+}
+
+public class Main {
+    public static void main(String[] args) {    //13
+        Foo1 f1 = new Foo1();                   //14
+        Foo2 f2 = new Foo2();                   //15
+        int a = 10;                             //16
+        f1.setX(a);                             //17
+        f2.setFoo1(f1);                         //18
+        [  1  ]
+        System.out.println(f2.getFoo1().getX());
+    }
+}
+
+出力結果が100となる空欄1に入るコードはどれですか。2つ選択してください。
+
+A. f2.setX(100);
+B. f1.setX(100);
+C. f2.getFoo1().setX(100);
+D. f2 = new Foo1();
+   f2.setX(100);
+E. x=100;

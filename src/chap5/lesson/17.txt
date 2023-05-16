@@ -1,0 +1,22 @@
+次のプログラムで、funcYメソッドが呼び出されたとき、
+5行目で作成されたStringのオブジェクトは、
+どの行の後にガベージコレクタの対象になりますか？1つ選択してください。
+
+public class Test {
+    private String s;
+    private void funcX(String a) { s = a;}
+    public void funcY() {
+        String s = new String();    //5
+        funcX(s);                   //6
+        s = new String();           //7
+        funcX(null);                //8
+        s = null;                   //9
+    }
+}
+
+A. 5行目
+B. 6行目
+C. 7行目
+D. 8行目
+E. 9行目
+F. 10行目

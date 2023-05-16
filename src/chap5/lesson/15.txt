@@ -1,0 +1,24 @@
+次のコードがあります。
+
+public class Main {
+    static int x = 1;
+    int y = 1;
+    public static void main(String[] args) {
+        Main obj1 = new Main();     //5
+        Main obj2 = new Main();     //6
+        obj1.x = 5;                 //7
+        obj1.y = 6;                 //8
+        obj2.x = 7;                 //9
+        obj2.y = 8;                 //10
+        System.out.println("ans:" + obj1.x + obj1.y + obj2.x + obj2.y);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. ans:5678
+B. ans:5656
+C. ans:7878
+D. ans:7676
+E. ans:7678
+

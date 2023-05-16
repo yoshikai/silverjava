@@ -1,0 +1,23 @@
+次のコードがあります。
+
+public class Main {
+    public static String msg = "hello";
+    int val1;           //3
+    static {            //4
+        val1 = 1;       //5
+    }                   //6
+    public static void main(String[] args) {
+        System.out.println(msg + " " + val1);   //8
+    }
+}
+
+コンパイルエラーを解消するための説明のといて正しいものは次のどれですか？1つ選択してください。
+
+A. 3行目にstaticを付与する
+B. 3行目にpublicを付与する
+C. 8行目を以下にする
+   System.out.println(new Main().msg + " " + new Main().val1);
+D. 8行目を以下にする
+   System.out.println(Main.msg + " " + Main.val1);
+E. 4～6を削除し、3行目を以下にする
+   int val = 1;

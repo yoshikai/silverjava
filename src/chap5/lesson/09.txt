@@ -1,0 +1,29 @@
+次のコードがあります。
+
+class Test {
+    static void methodA() {
+        methodB();          //3行目
+        Test.methodB();     //4
+        methodC();          //5
+        Test.methodD();     //6
+    }
+    static void methodB() {}
+    void methodC() {
+        methodB();          //10
+        Test.methodB();     //11
+        methodD();          //12
+        Test.methodD();     //13
+    }
+    void methodD() {}
+}
+
+コンパイルエラーとなる行は次のどれですか？3つ選択してください。
+
+A. 3行目
+B. 4行目
+C. 5行目
+D. 6行目
+E. 10行目
+F. 11行目
+G. 12行目
+H. 13行目

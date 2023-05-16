@@ -1,0 +1,21 @@
+次のコードがあります。
+
+public class Main {
+    final int a;
+    Main(int b) { a = b;}
+    void method(int c) { a = c;}
+    public static void main(String[] args) {
+        Main obj = new Main(10);
+        obj.method(20);
+        System.out.println(obj.a);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. 2行目でコンパイルエラー
+B. 3行目でコンパイルエラー
+C. 4行目でコンパイルエラー
+D. 0が出力される
+E. 10が出力される
+F. 20が出力される

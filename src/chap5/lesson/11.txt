@@ -1,0 +1,25 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        Main ojb1 = new Main();                 //3行目
+        Main ojb2 = new Main();                 //4
+        System.out.print(ojb1 == ojb2);         //5
+        ojb2 = operate(ojb1, ojb2);             //6
+        System.out.print(" " + (ojb1 == ojb2)); //7
+    }
+
+    static Main operate(Main ojb1, Main ojb2) {
+        Main ojb3 = ojb1;
+        ojb1 = ojb2;
+        return ojb3;
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. false false
+B. true true
+C. false true
+D. true false
+E. コンパイルエラー

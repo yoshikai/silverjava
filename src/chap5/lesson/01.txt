@@ -1,0 +1,14 @@
+次のコードがあります。
+
+1. class Test1 { Test1(String s) {}}
+
+2. class Test2 {}
+
+3. class Test3 { Test3() {}}
+
+デフォルトコンストラクタが作られるクラスは次のどれですか？1つ選択してください。
+
+A. Test1
+B. Test2
+C. Test3
+D. いずれも作られない
