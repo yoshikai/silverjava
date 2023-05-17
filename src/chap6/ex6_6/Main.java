@@ -3,12 +3,10 @@ package chap6.ex6_6;
 public class Main {
     int x;
     int y;
-
     void methodA(int x, int y) {
         x = x;
         y = y;
     }
-
     void methodB(int x, int y) {
         this.x = x;
         this.y = y;

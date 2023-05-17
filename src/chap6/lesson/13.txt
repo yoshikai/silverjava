@@ -1,0 +1,30 @@
+次のコードがあります。
+
+interface A { public int m1();}
+interface B { void m2();}
+
+これらのインターフェース実装として正しいものは次のどれですか。2つ選択してください。
+
+A. class Test implements A,B{
+     public int m1(){ return 0;}
+     public void m2(){}
+   }
+B. class Test extends A,B{
+     public int m1(){ return 0;}
+     public void m2(){}
+   }
+C. class Test implements A,B{
+     public int m1(){ return 0;}
+     public void m2(){}
+   }
+D. class Test extends A,B{
+     public int m1(){ return 0;}
+     void m2(){}
+   }
+E. abstract class Test implements A,B{
+     public int m2(){ return 0;}
+   }
+F. abstract class Test extends A,B{
+     public int m1(){ return 0;}
+     void m2(){}
+   }

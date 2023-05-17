@@ -1,0 +1,24 @@
+次のコードがあります。
+
+class Foo {
+    void method(Object obj) { System.out.println("Object"); }
+    void method(Number obj) { System.out.println("Number"); }
+    void method(Integer obj) { System.out.println("Integer"); }
+    void method(char[] obj) { System.out.println("char[]"); }
+}
+public class Main {
+    public static void main(String[] args) {
+        Foo foo = new Foo();
+        foo.method("Hello");
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. Object
+B. Number
+C. Integer
+D. char[]
+E. コンパイルエラー
+F. 実行時エラー
+

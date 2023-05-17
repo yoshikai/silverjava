@@ -1,0 +1,20 @@
+次のコードがあります。
+
+import java.util.function.Supplier;
+public class Main {
+    public static void main(String[] args) {
+        foo(() -> 10);
+    }
+    public static void foo(Supplier<Integer> obj) {
+        System.out.println(obj.get());
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. 5行目でコンパイルエラー
+B. 7行目でコンパイルエラー
+C. 8行目でコンパイルエラー
+D. コンパイルは成功するが、実行時エラー
+E. コンパイル、実行ともに成功し、10が出力
+

@@ -1,0 +1,34 @@
+次のコードがあります。
+
+class SuperClass {
+    SuperClass() {}
+    SuperClass(int i) {
+        System.out.println("The value of i is " + i);
+    }
+}
+class SubClass extends SuperClass {
+    SubClass(int j) {
+    [ 1 ]
+    [ 2 ]
+    }
+}
+public class Main {
+    public static void main(String[] args) {
+        SubClass sub = new SubClass(5);
+    }
+}
+
+空欄1と2に入るコードとして正しいものは次のどれですか。1つ選択してください。
+
+A. 1 System.out.println("Thies value of j is " + j);
+   2 super(j);
+B. 1 super(j);
+   2 System.out.println("Thies value of j is " + j);
+C. 1 System.out.println("Thies value of j is " + j);
+   2 this();
+D. 1 this();
+   2 System.out.println("Thies value of j is " + j);
+E. 1 System.out.println("Thies value of j is " + j);
+   2 SuperClass();
+F. 1 SuperClass();
+   2 System.out.println("Thies value of j is " + j);

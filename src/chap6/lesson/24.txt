@@ -1,0 +1,21 @@
+次のコードがあります。
+
+import java.util.Arrays;
+import java.util.List;
+
+public class Main {
+    public static void main(String[] args) {
+        List<String> list =
+                Arrays.asList("aaaaaa", "bbb", "cccc", "dddddddd");
+        list.replaceAll(s -> s.length() > 5 ? s.substring(0, 5) : s);
+        System.out.println(list);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. [aaaaaa,bbb,cccc,dddddddd]
+B. [aaaaaa,bbbsss,ccccssss,dddddddd]
+C. [aaaaa,bbb,cccc,ddddddd]
+D. [aaaaa,bbbss,ccccs,ddddddd]
+E. コンパイルエラー

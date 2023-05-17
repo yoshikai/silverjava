@@ -1,0 +1,24 @@
+次のコードがあります。
+
+class A {
+     A(String message) {
+         System.out.println(message + " from A.");
+     }
+ }
+ class B extends A {
+     B() {
+         System.out.println("Hello from B.");
+     }
+ }
+ public class Main {
+     public static void main(String[] args) {
+         B b = new B();
+     }
+ }
+
+コンパイル、実行した結果として正しいものは次のどれですか1つ選択してください。
+
+A. Hello from B.
+B. 2行目でコンパイルエラーが発生する
+C. 7行目でコンパイルエラーが発生する
+D. 実行時エラー

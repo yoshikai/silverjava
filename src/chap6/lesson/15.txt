@@ -1,0 +1,16 @@
+次のコードがあります。
+
+interface Pue { void method();}
+class Doe implements Pue { public void method() {}}
+class Hau extends Doe { public void method() {}}
+class Wia extends Doe { public void method() {}}
+
+コンパイルが成功するコードは次のどれですか。4つ選択してください。
+
+A. Pue p1 = new Doe();
+B. Pue p2 = new Hau();
+C. Doe d1 = new Hau();
+D. Hau h1 = new Wia();
+E. Hau h2 = new Doe();
+F. Wia w1 = new Hau();
+G. Wia w2 = (Wia)new Doe();

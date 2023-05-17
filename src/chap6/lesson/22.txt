@@ -1,0 +1,20 @@
+次のコードがあります。
+
+import java.util.Arrays;
+
+public class Main {
+    public static void main(String[] args) {
+        String[] ary1 = {"apple", "banana"};
+        String[] ary2 = {"Apple", "Banana"};
+        System.out.println(Arrays.mismatch(ary1, ary2));
+    }
+}
+
+コンパピル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. 0
+B. 1
+C. -1
+D. 2
+E. コンパイルエラー
+F. 実行時エラー

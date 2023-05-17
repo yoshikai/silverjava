@@ -1,0 +1,16 @@
+次のコードがあります。
+
+interface Test {
+    default void a() {}
+    public default void b() {}
+    default void a(int a) {}
+    public default void b(int b) {}
+    static void c() {}
+}
+
+コンパイルした際の説明として正しいものは次のどれですか。1つ選択してください。
+
+A. 2,4行目でコンパイルエラー
+B. 6行目でコンパイルエラー
+C. 2,4,6行目でコンパイルエラー
+D. コンパイルは成功する

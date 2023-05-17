@@ -1,22 +1,11 @@
 package chap6.ex6_14;
 
-class Room {
-}
-
-interface Facilities {
-}
-
-class ClassRoom extends Room implements Facilities {
-}
-
-class Lab extends ClassRoom {
-}
-
-class LectureHall extends ClassRoom {
-}
-
-class Auditorium extends ClassRoom {
-}
+class Room {}
+interface Facilities {}
+class ClassRoom extends Room implements Facilities {}
+class Lab extends ClassRoom {}
+class LectureHall extends ClassRoom {}
+class Auditorium extends ClassRoom {}
 
 public class Main {
     public static void main(String[] args) {
@@ -28,3 +17,4 @@ public class Main {
         a1 = (Auditorium) f1;
     }
 }
+

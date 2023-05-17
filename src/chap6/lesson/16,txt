@@ -1,0 +1,27 @@
+次のコードがあります。
+
+class Animal {
+    public static void saySomething() {
+        System.out.print("Gurrr! ");
+    }
+}
+public class Cow extends Animal {
+    public static void saySomething() {
+        System.out.print("Moo! ");
+    }
+    public static void main(String[] args) {
+        Animal[] animals = {new Animal(), new Cow()};
+        for (Animal a : animals) {
+            a.saySomething();
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. 9行目でコンパイルエラーが発生する
+B. 10行目でコンパイルエラーが発生する
+C. Gurrrr! Moo!
+D. Gurrrr! Gurrrr!
+E. Moo! Moo!
+F. 実行時エラー

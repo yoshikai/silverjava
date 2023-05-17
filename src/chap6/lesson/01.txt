@@ -1,0 +1,17 @@
+次のコードがあります。
+
+class XX {
+    void method() {}
+}
+class YY extends XX {
+    [ 1 ]
+}
+
+空欄1に挿入した場合、正しくコンパイルできないコードは次のどれですか？2つ選択してください。
+
+A. public void method(){}
+B. public int method(){return 0;}
+C. void method(int i, String s){}
+D. void method(Object o){}
+E. protected void method(){}
+F. private void method(){}

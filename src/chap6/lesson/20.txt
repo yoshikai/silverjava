@@ -1,0 +1,19 @@
+次のコードがあります。
+
+import java.util.*;
+
+class Parent {
+    <T> Collection<T> foo(Collection c) { return null;}
+    <T> List<T> foo(List c) { return null;}
+    <T> List<T> foo(Collection c) { return null;}
+    <T> Collection<T> foo(Map c) { return null;}
+}
+
+コンパイルした際の説明として正しいものは次のどれですか。1つ選択してください。
+
+A. 5,6,7行目でコンパイルエラー
+B. 5,6行目でコンパイルエラー
+C. 5行目でコンパイルエラー
+D. 6行目でコンパイルエラー
+E. 7行目でコンパイルエラー
+F. コンパイルは成功する

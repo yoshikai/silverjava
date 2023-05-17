@@ -1,0 +1,28 @@
+以下の図に示すクラス階層があります。
+
+class Room {}
+interface Facilities {}
+class ClassRoom extends Room implements Facilities {}
+class Lab extends ClassRoom {}
+class LectureHall extends ClassRoom {}
+class Auditorium extends ClassRoom {}
+
+また、次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        LectureHall lh = new LectureHall();
+        Auditorium a1;
+        Facilities f1;
+
+        f1 = lh;
+        a1 = (Auditorium) f1;
+    }
+}
+
+このコードに関する正しい記述は次のどれですか。1つ選択してください。
+
+A. このコードは正常にコンパイルおよび実行され、エラーは発生しない
+B. 明示的な型変換が必要なので、5行目でコンパイルエラーが発生する
+C. インターフェースはその当該インターフェースの実装クラスへ変換することができないので、6行目でコンパイルエラーが発生する
+D. 正常にコンパイルされるが、実行時に例外が発生する

@@ -1,0 +1,18 @@
+次のコードがあります。
+
+interface A { void x(int num);}
+abstract class B {
+    public void x(int num) {}
+    public abstract void y();
+}
+class C extends B implements A {
+    public void y() {}
+}
+
+コンパイルした際の説明として正しいものは次のどれですか。1つ選択してください。
+
+A. 2行目にpublic修飾子が付与されていないため、コンパイルエラー
+B. 4行目にimplements Aの記述がないため、コンパイルエラー
+C. 8行目のCクラス宣言では、implements Aをextends Bより前に記述する必要があるため、コンパイルエラー
+D. Cクラス内に、x()メソッドがオーバーライドされていないため、コンパイルエラー
+E. コンパイルは成功する

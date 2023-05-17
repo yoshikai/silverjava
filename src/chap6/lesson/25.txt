@@ -1,0 +1,23 @@
+次のコードがあります。
+
+import java.util.Arrays;
+import java.util.List;
+
+public class Main {
+    public static void main(String[] args) {
+        String[] ary = {"tokyo", "nagasaki", "mie", "nara"};
+        List<String> city = Arrays.asList(ary);
+        if (city.removeIf(str -> str.length() <= 3)) {
+            System.out.println(city);
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. [tokyo, nagasaki, mie, nara]
+B. [tokyo, nagasaki, nara]
+C. [tokyo, nagasaki]
+D. コンパイルエラー
+E. 実行時エラー
+

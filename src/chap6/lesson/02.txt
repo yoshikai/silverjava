@@ -1,0 +1,19 @@
+次のコードがあります。
+
+class A {}
+class B extends A {}
+public class Main {
+    public static void main(String[] args) {
+        A[] ary = new A[2];
+        ary[0] = new A();
+        ary[1] = new B();
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか？1つ選択してください。
+
+A. 6行目でコンパイルエラー
+B. 7行目でコンパイルエラー
+C. 6,7行目でコンパイルエラー
+D. コンパイル、実行ともに成功する
+E. 実行時エラー

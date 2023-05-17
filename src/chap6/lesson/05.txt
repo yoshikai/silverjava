@@ -1,0 +1,25 @@
+次のコードがあります。
+
+interface A {}
+class B implements A {}
+class C extends B {}
+class D {}
+public class Main {
+    public static void main(String[] args) {
+        A obj1 = new B();
+        B obj2 = new C();
+        D obj3 = new D();
+        if (obj1 instanceof A) { System.out.print("obj1 ");}
+        if (obj2 instanceof A) { System.out.print("obj2 ");}
+        if (obj3 instanceof A) { System.out.print("obj3 ");}
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. obj1
+B. obj1 obj2
+C. obj1 obj2 obj3
+D. obj1 obj3
+E. コンパイルエラー
+F. 実行時エラー
