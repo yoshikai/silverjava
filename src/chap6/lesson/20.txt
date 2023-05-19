@@ -3,10 +3,10 @@
 import java.util.*;
 
 class Parent {
-    <T> Collection<T> foo(Collection c) { return null;}
-    <T> List<T> foo(List c) { return null;}
-    <T> List<T> foo(Collection c) { return null;}
-    <T> Collection<T> foo(Map c) { return null;}
+    <T> Collection<T> foo(Collection c) { return null;} //4
+    <T> List<T> foo(List c) { return null;}             //5
+    <T> List<T> foo(Collection c) { return null;}       //6
+    <T> Collection<T> foo(Map c) { return null;}        //7
 }
 
 コンパイルした際の説明として正しいものは次のどれですか。1つ選択してください。

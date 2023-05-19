@@ -10,8 +10,8 @@ public class Cow extends Animal {
         System.out.print("Moo! ");
     }
     public static void main(String[] args) {
-        Animal[] animals = {new Animal(), new Cow()};
-        for (Animal a : animals) {
+        Animal[] animals = {new Animal(), new Cow()};   //9
+        for (Animal a : animals) {                      //10
             a.saySomething();
         }
     }

@@ -10,5 +10,5 @@ A. class Y extends MyClass{ void x(){}}
 B. abstract class Y extends MyClass{ abstract void y();}
 C. class Y extends MyClass{ void x();}
 D. class Y extends MyClass{ void x(){} void y();}
-E. class Y extends MyClass{ void x(){}}
+E. class Y implements MyClass{ void x(){}}
 F. abstract class Y implements MyClass{ void x();}

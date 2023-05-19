@@ -5,8 +5,8 @@ public class Main {
     public static void main(String[] args) {
         foo(() -> 10);
     }
-    public static void foo(Supplier<Integer> obj) {
-        System.out.println(obj.get());
+    public static void foo(Supplier<Integer> obj) { //7
+        System.out.println(obj.get());              //8
     }
 }
 

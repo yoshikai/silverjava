@@ -1,12 +1,14 @@
 次のコードがあります。
 
-interface A { void x(int num);}
-abstract class B {
-    public void x(int num) {}
-    public abstract void y();
+interface A {                       //1
+    void x(int num);                //2
 }
-class C extends B implements A {
-    public void y() {}
+abstract class B {                  //4
+    public void x(int num) {}       //5
+    public abstract void y();       //6
+}
+class C extends B implements A {    //8
+    public void y() {}              //9
 }
 
 コンパイルした際の説明として正しいものは次のどれですか。1つ選択してください。

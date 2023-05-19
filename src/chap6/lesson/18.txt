@@ -1,20 +1,12 @@
 次のコードがあります。
 
 class Animal {
-    static void x() {
-        System.out.print("Animal ");
-    }
-    void y() {
-        x();
-    }
+    static void x() { System.out.print("Animal ");} //2
+    void y() { x();}
 }
 class Cow extends Animal {
-    static void x() {
-        System.out.print("Cow ");
-    }
-    void z() {
-        x();
-    }
+    static void x() { System.out.print("Cow ");}    //6
+    void z() { x();}                                //7
 }
 public class Main {
     public static void main(String[] args) {
@@ -23,6 +15,7 @@ public class Main {
         obj.z();
     }
 }
+
 
 コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
 

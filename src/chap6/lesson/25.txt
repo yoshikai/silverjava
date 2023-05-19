@@ -3,12 +3,12 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class Main {
+public class Main {                                         //2
     public static void main(String[] args) {
         String[] ary = {"tokyo", "nagasaki", "mie", "nara"};
-        List<String> city = Arrays.asList(ary);
-        if (city.removeIf(str -> str.length() <= 3)) {
-            System.out.println(city);
+        List<String> city = Arrays.asList(ary);             //5
+        if (city.removeIf(str -> str.length() <= 3)) {      //6
+            System.out.println(city);                       //7
         }
     }
 }

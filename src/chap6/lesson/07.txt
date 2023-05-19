@@ -1,12 +1,12 @@
 次のコードがあります。
 
 class A {
-     A(String message) {
+     A(String message) {    //2
          System.out.println(message + " from A.");
      }
  }
  class B extends A {
-     B() {
+     B() {                  //7
          System.out.println("Hello from B.");
      }
  }

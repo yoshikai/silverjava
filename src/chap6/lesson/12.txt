@@ -1,11 +1,11 @@
 次のコードがあります。
 
 interface Test {
-    default void a() {}
-    public default void b() {}
-    default void a(int a) {}
-    public default void b(int b) {}
-    static void c() {}
+    default void a() {}             //2
+    public default void b() {}      //3
+    default void a(int a) {}        //4
+    public default void b(int b) {} //5
+    static void c() {}              //6
 }
 
 コンパイルした際の説明として正しいものは次のどれですか。1つ選択してください。

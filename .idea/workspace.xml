@@ -4,41 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="silverJava,projevaのビルドエラー解消">
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/05.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/09.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/lesson/99_answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/p189/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/p191/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap5/p194/Main.java" afterDir="false" />
+    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter6の練習問題を追加">
+      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/99_answer.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/_10/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/p186/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/_11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/p187/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/_12/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/_13/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/_14/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/ex5_12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_12/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/ex5_13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_13/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/ex5_14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_14/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/ex5_16/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_16/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/ex5_17/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_17/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap5/ex5_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap5/ex5_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_10/MySubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_10/MySubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_11/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_11/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_12/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_12/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_13/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_13/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_15/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_15/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_18/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_20/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_20/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_21/FooImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_21/FooImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_22/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_8/MySubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_8/MySubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/08.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/16,txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/16,txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/25.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +72,7 @@
     "project.structure.last.edited": "モジュール",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
@@ -92,13 +88,26 @@
       <recent name="C:\Users\yoshi\IdeaProjects\silver_java\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.chap5.ex5_6.Main">
+  <component name="RunManager" selected="アプリケーション.chap6.ex6_22.Main">
+    <configuration name="Cow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap6.ex6_16.Cow" />
+      <module name="silver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap6.ex6_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap1.p017.Main" />
+      <option name="MAIN_CLASS_NAME" value="chap6.ex6_18.Main" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap1.p017.*" />
+          <option name="PATTERN" value="chap6.ex6_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap5.p183.StaticSample" />
+    <configuration name="chap6.ex6_14.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap6.ex6_14.Main" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap5.p183.*" />
+          <option name="PATTERN" value="chap6.ex6_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap2.p036.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap2.p036.Main" />
+    <configuration name="chap6.ex6_17.Cow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap6.ex6_17.Cow" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap2.p036.*" />
+          <option name="PATTERN" value="chap6.ex6_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,33 +141,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap5.ex5_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap5.ex5_6.Main" />
+    <configuration name="chap6.ex6_22.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap6.ex6_22.Main" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap5.ex5_6.*" />
+          <option name="PATTERN" value="chap6.ex6_22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample" />
-      <module name="silver_java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.chap5.ex5_6.Main" />
-        <item itemvalue="アプリケーション.StaticSample" />
-        <item itemvalue="アプリケーション.chap2.p036.Main" />
-        <item itemvalue="アプリケーション.sample" />
+        <item itemvalue="アプリケーション.chap6.ex6_22.Main" />
         <item itemvalue="アプリケーション.Main" />
+        <item itemvalue="アプリケーション.chap6.ex6_17.Cow" />
+        <item itemvalue="アプリケーション.Cow" />
+        <item itemvalue="アプリケーション.chap6.ex6_14.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +222,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683979162869</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="chapter5までの練習問題、解説を追加">
+      <created>1684200934145</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684200934145</updated>
+    </task>
+    <task id="LOCAL-00009" summary="chapter6の練習問題を追加">
+      <created>1684287186900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684287186900</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +257,9 @@
     <MESSAGE value="chapter3の練習問題解説まで追加" />
     <MESSAGE value="chapter4の練習問題解説まで追加" />
     <MESSAGE value="silverJava,projevaのビルドエラー解消" />
-    <option name="LAST_COMMIT_MESSAGE" value="silverJava,projevaのビルドエラー解消" />
+    <MESSAGE value="chapter5までの練習問題、解説を追加" />
+    <MESSAGE value="chapter6の練習問題を追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter6の練習問題を追加" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

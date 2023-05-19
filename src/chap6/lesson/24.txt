@@ -6,7 +6,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         List<String> list =
-                Arrays.asList("aaaaaa", "bbb", "cccc", "dddddddd");
+                Arrays.asList("aaaaaa", "bbb", "cccc", "dddddddd");//6 3 4 8
         list.replaceAll(s -> s.length() > 5 ? s.substring(0, 5) : s);
         System.out.println(list);
     }
@@ -14,8 +14,8 @@ public class Main {
 
 コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
 
-A. [aaaaaa,bbb,cccc,dddddddd]
-B. [aaaaaa,bbbsss,ccccssss,dddddddd]
-C. [aaaaa,bbb,cccc,ddddddd]
-D. [aaaaa,bbbss,ccccs,ddddddd]
+A. [aaaaaa,bbb,cccc,dddddd]             //6 3 4 6
+B. [aaaaaa,bbbsss,ccccssss,dddddddd]    //6 6 6 6
+C. [aaaaa,bbb,cccc,ddddddd]             //5 3 4 5
+D. [aaaaa,bbbss,ccccs,ddddddd]          //5 5 5 5
 E. コンパイルエラー

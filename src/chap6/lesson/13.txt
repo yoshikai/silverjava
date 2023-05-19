@@ -15,7 +15,7 @@ B. class Test extends A,B{
    }
 C. class Test implements A,B{
      public int m1(){ return 0;}
-     public void m2(){}
+     void m2(){}
    }
 D. class Test extends A,B{
      public int m1(){ return 0;}

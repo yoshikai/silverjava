@@ -7,11 +7,11 @@ class FooImpl implements Foo {
     }
 }
 
-FooImpleクラスと同党のコードは次のどれですか。2つ選択してください。
+FooImpleクラスと同等のコードは次のどれですか。2つ選択してください。
 
 A. Foo f = d -> -1;
 B. Foo f = d -> { -1};
 C. Foo f = d -> { int d = -1; d};
 D. Foo f = d -> { int d = -1; return d;}
-E. Foo f = d -> { int i = -1; return return i};
-F. Foo f = d -> { int i = -1; return return i;}
+E. Foo f = d -> { int i = -1; return i};
+F. Foo f = d -> { int i = -1; return i;}
