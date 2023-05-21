@@ -1,0 +1,30 @@
+次のコードがあります。
+
+class P {
+    public void strToNum(String s)  //2
+            throws NumberFormatException {
+        System.out.println("P : " + Integer.parseInt(s));
+    }
+}
+class C extends P {
+    public void strToNum(String s) throws Exception {   //8   //NGのためコメントアウト
+        System.out.println("C : " + Integer.parseInt(s));
+    }
+}
+public class Main {
+    public static void main(String[] args) {
+        P p = new C();
+        p.strToNum("a");    //15
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. a
+B. 10
+C. 0x10
+D. 2行目が原因でコンパイルエラーが発生する
+E. 8行目が原因でコンパイルエラーが発生する
+F. 15行目が原因でコンパイルエラーが発生する
+G. 実行時にNumberFormatException例外が発生する
+H. 実行時にException例外が発生する

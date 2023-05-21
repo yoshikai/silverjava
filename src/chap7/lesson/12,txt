@@ -1,0 +1,26 @@
+次のコードがあります。
+
+public class Main {
+    private short s;
+    private Integer i;
+    public Main(int i) {
+        this.i = this.i + i + s;
+        this.s = 0;
+    }
+    public void print() { System.out.println(" s = " + s + " : i = " + i);}
+    public static void main(String[] args) {
+        Main obj = new Main(5);
+        obj.print();
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. s = 0: i = 5
+B. s = 0: i = 0
+C. 実行時に,IllegalStateExceptionが例外が発生する
+D. 実行時に,ClassCastExceptionが例外が発生する
+E. 実行時に,NullPointerExceptionが例外が発生する
+F. 実行時に,NumberFormatExceptionが例外が発生する
+G. 実行時に,IllegalArgumentExceptionが例外が発生する
+H. コンパイルエラー

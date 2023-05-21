@@ -1,0 +1,31 @@
+次のコードがあります。
+
+public class Main {
+    static void bar() {
+        foo();
+    }
+    static void foo() throws MyException {
+        throw new MyException();
+    }
+    public static void main(String[] args) {
+        try {
+            foo();
+            System.out.println("B");
+        } catch (MyException e) {
+            bar();
+        } catch (RuntimeException e) {
+            System.out.println("C");
+        } finally {
+            System.out.println("D");
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. BとDが表示される
+B. BとC表示される
+C. BとCとDが表示される
+D. エラーメッセージのみ表示される
+E. D.とエラーメッセージが表示される
+F. コンパイルエラー

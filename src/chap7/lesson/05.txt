@@ -1,0 +1,23 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        x();
+        System.out.print("1 ");
+    }
+    static void x() {
+        y();
+        System.out.print("2 ");
+    }
+    static void y() {
+        throw new Exception();
+    }
+}
+
+コンパイルを成功させるために行う修正は次のどれですか。1つ選択してください。
+
+A. mainメソッド宣言に、throws Exceptionを追加する
+B. x()メソッド宣言に、throws Exceptionを追加する
+C. y()メソッド宣言に、throws Exceptionを追加する
+D. すべてのメソッド宣言に、throws Exceptionを追加する
+

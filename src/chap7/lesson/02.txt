@@ -1,0 +1,12 @@
+次のコードがあります。
+
+void method(int num) throws IOException{}
+
+サブクラスでmethod()メソッドをオーバーライドした場合、正しいものは次のどれですか。
+3つ選択してください。
+
+A. void method(int num) throws IOException{}
+B. void method(int num) throws Exception{}
+C. void method(int num) throws SQLException{}
+D. void method(int num) throws FileNotFoundException{}
+E. void method(int num) {}

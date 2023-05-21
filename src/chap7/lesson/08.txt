@@ -1,0 +1,20 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        String[] week_days = {"Monday", "Tuesday",
+                "Wednesday", "Thursday",
+                "Friday", "Saturday", "Sunday"};
+        for (int i = 1; i <= 7; i++) {
+            System.out.println("The day of the week: " +    //7
+                    week_days[i]);
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. 7行目で1週間のすべての曜日名が出力される
+B. コンパイルエラー
+C. 実行時に例外が発生し、例外メッセージ以外は何も出力されない
+D. 1部分の曜日名が出力された後、例外が発生する

@@ -1,0 +1,20 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        try {
+            System.out.println("I was in try");
+        } finally {
+            System.out.println("I was in finally");
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. I was in try
+   I was in finally
+B. I was in try
+C. I was in finally
+D. コンパイルエラー
+E. 実行時エラー

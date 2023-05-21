@@ -1,0 +1,32 @@
+次のコードがあります。
+
+public class Main {
+    static void method() {
+        int ary[] = new int[5];
+        for (int i = 0; i <= 5; i++) ary[i] = i;
+    }
+    public static void main(String[] args) {
+        try {
+            method();
+            System.out.print("try ");
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.print("catch1 ");
+        } catch (Exception e) {
+            System.out.print("catch2 ");
+        } finally {
+            System.out.print("finally ");
+        }
+        System.out.print("done.");
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。1つ選択してください。
+
+A. catch1 finally done.
+B. catch2 finally done.
+C. try catch finally done.
+D. try catch finally done.
+E. Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException:
+   index 5 out of bounds for length:5
+    at Main.method(Main.java:4)
+    at Main.main(Main.java:8)

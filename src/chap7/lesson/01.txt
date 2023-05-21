@@ -1,0 +1,7 @@
+説明として正しいものは次のどれですか。２つ選択してください。
+
+A. RuntimeExceptionに対する例外処理は必ず行う
+B. FileNotFoundExceptionに対する例外処理は必ず行う
+C. IOExceptionに対する例外処理は必ず行う
+D. RuntimeExceptionおよびIOExceptionが発生したらユーザに知らせる
+E. 例外が発生したらマシンを再起動する

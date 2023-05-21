@@ -4,36 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter6の練習問題を追加">
-      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/99_answer.txt" afterDir="false" />
+    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter6の練習問題の解答を追加">
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/12,txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/p327/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_10/MySubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_10/MySubClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_11/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_11/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_12/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_12/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_13/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_13/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_15/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_15/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_18/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_20/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_20/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_21/FooImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_21/FooImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_22/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_22/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_8/MySubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_8/MySubClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/ex6_9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/ex6_9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/04.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/07.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/08.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/16,txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/16,txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/21.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/24.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/p309/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/p315/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/p316/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/_04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/p321/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/_05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/p324/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/p325/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/_07/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7_11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/ex7_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/ex7_7/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684287186900</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="chapter6の練習問題の解答を追加">
+      <created>1684507893325</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684507893325</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,7 +266,8 @@
     <MESSAGE value="silverJava,projevaのビルドエラー解消" />
     <MESSAGE value="chapter5までの練習問題、解説を追加" />
     <MESSAGE value="chapter6の練習問題を追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter6の練習問題を追加" />
+    <MESSAGE value="chapter6の練習問題の解答を追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter6の練習問題の解答を追加" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

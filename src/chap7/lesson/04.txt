@@ -1,0 +1,38 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("1 ");
+        x();
+    }
+    static void x() {
+        y();
+    }
+    static void y() {
+        if (Math.random() > 0.1) {
+            throw new RuntimeException();
+        }
+        System.out.println("2 ");
+    }
+}
+
+実行結果の可能性がある出力結果は次のどれですか。2つ選択してください。
+
+A. Exception in thread "main" java.lang.RuntimeException
+    at Main.y(Main.java:10)
+    at Main.x(Main.java:7)
+    at Main.main(Main.java:4)
+   1
+B. 1
+   Exception in thread "main" java.lang.RuntimeException
+    at Main.y(Main.java:10)
+    at Main.x(Main.java:7)
+    at Main.main(Main.java:4)
+C. Exception in thread "main" java.lang.RuntimeException
+    at Main.y(Main.java:10)
+    at Main.x(Main.java:7)
+    at Main.main(Main.java:4)
+D. 2
+   1
+E. 1
+   2

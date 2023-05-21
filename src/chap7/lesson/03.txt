@@ -1,0 +1,25 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        try {
+            x();
+            System.out.print("1 ");
+        } catch (RuntimeException ex) {
+            System.out.print("2");
+        }
+    }
+    static void x() throws RuntimeException {
+        if (Math.random() > 0.1) { throw new RuntimeException();}
+        System.out.print("3 ");
+    }
+}
+
+実行結果の可能性がある出力結果は次のどれですか。2つ選択してください。
+
+A. 3 1
+B. 1 3
+C. 1 2
+D. 2
+E. 3 2
+F. 1 3 2
