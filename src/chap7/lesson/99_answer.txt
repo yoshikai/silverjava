@@ -1,0 +1,139 @@
+[lesson7_1:B,C]
+※P312参照
+RuntimeExceptionクラスのサブクラスの例外処理は任意です。
+選択肢BのFileNotFoundException、選択肢CのIOExceptionは
+ExceptionクラスのサブクラスでRuntimeExceptionクラスをスーパークラスに持たないため
+例外処理は必須です。従って正解は選択肢B,C
+選択肢Dの例外が発生したらユーザに知らせるというのは運用の問題であり、例外発生時の処理としては不適切です。
+選択肢Eも選択肢Dと同様の運用の問題ですが、再起動しても再発するためこの選択肢も不適切です。
+
+[lesson7_2:A,D,E]
+1. サブクラスのメソッドが例外をスローする場合はスーパークラスのメソッドがスローする例外か、
+その例外クラスのサブクラスのみ
+2. RumtimeExceptionクラスとそのサブクラスの例外はスーパークラスのメソッドがスローする
+例外に関係なくサブクラスでスロー出来る。
+3. スーパークラスのメソッドにthrowsが有っても、サブクラスでthrowsは必ずしも書かなくてよい
+選択肢A: スーパークラスのメソッドと同じ例外をスローしているためOK
+選択肢B: ExceptionクラスはIOExceptionクラスのサブクラスでもなく、
+RuntimeExceptionクラスを親に持っていないためコンパイルエラー
+選択肢C: SQLExceptionはExceptionクラスのサブクラスであり、IOExceptionクラスのサブクラスでもない
+ため選択肢Bと同様にコンパイルエラー
+選択肢D: FileNotFoundExceptionはIOExceptionのサブクラスであるためOK
+選択肢E: IOExceptionを指定しない
+従って正解は選択肢A,D,E
+
+[lesson7_3:A,D]
+※Math.randomメソッド
+https://docs.oracle.com/javase/jp/11/docs/api/java.base/java/lang/Math.html#random()
+0.0～1.0以下の正の符号のdouble値を返す。
+例外発生時の処理の流れの問題。
+mainメソッド内のメソッドxでRuntimeException発生時の処理の流れは、
+if(Math.random() < 0.1) が真となった場合、メソッドxを抜けて
+catchに制御が移るため"2"が出力されます。
+ifが偽となった場合、"3"が出力されメソッドxが終了し、"1"が出力される。
+可能性として出力があるのは、"2"または"3 1"
+従って選択肢A,Dが正解
+
+[lesson7_4:B,E]
+問題3の類題
+1. mainメソッドないで"1"を出力
+→最初に1は必ず出力されるため、選択肢A,C,Dは除外
+2. xメソッド→yメソッドを呼び出し、ifで"真"となった場合、例外をスローして、catchせずに終了
+この場合、スタックトレースが出力されるため"真"となった場合、1を出力改行してスタックトレースが出力され終了
+3. ifが"偽"となった場合、"2"を出力して終了のため出力は"1"と"2"
+従って正解は選択肢B,E
+
+[lesson7_5:D]
+※良い問題
+メソッドyでExceptionをthrowしているため、try-catch区で囲むか、yメソッドにthrows区を
+付加する必要がある。
+しかし、メソッドxがメソッドyを、mainメソッドがメソッドxを呼び出しているため、
+main・x・yのそれぞれのメソッドにthrows区がないとコンパイルエラーになるため選択肢Dが正解
+
+[lesson7_6:C,D]
+問題3,4の類題
+1. mainメソッドでxメソッド呼び出し
+2. xメソッドでifが"真"の場合、例外をスロー
+3. 例外のスタックトレースが出力
+4. xメソッドでifが"偽"の場合、"2"を出力しメソッドx終了
+5. mainメソッドで"1"を出りょじゅ
+従って出力はスタックトレース、または"2 1"となるため、
+選択肢はC,Dが正解
+
+[lesson7_7:F]
+※引っ掛け問題
+changeメソッド内のtry-catchで引数の文字列をparseIntメソッドで整数にして、
+変数iに代入しているが、catch内のでは変数iは宣言のスコープ外のためコンパイルエラーとなる。
+従って正解は選択肢F
+※tryの前にint i=0;として実行した場合はどうなるか確認しましょう
+
+[lesson7_8:D]
+選択肢Dが正解。
+for文のカウンタ変数iを1で初期している時点で怪しいプログラムと思いましょう。
+配列の要素の1番目の"Tuesday"から順次出力されるがi=7となった時点で
+配列の要素[7]、つまり8番目の要素にアクセスしようとして例外が発生。
+従って選択肢Dが正解
+
+[lesson7_9:E]
+※引っ掛け問題
+要素数5の配列に対して、try区にて6番目の要素にアクセスしている
+→ArrayIndexOutOfBoundsException！とすぐに飛びつかないように。
+catchが2つあり、ExceptionクラスとIndexBoundsExceptionがあるが、
+ArrayIndexOutOfBoundsExceptionのスーパークラスにExceptionクラスがあるため、
+このプログラムではArrayIndexOutOfBoundsExceptionが発生しても、
+すべてスーパークラスのExceptionクラスでキャッチされてしまうためコンパイルエラーとなる。
+※先にサブクラスの方でcatchするとコンパイルエラーは解消される。
+従って選択肢Eが正解
+
+[lesson7_10:A]
+try区を実行して"I was in try"が出力。
+catch区がなく、finally区がありますが。
+finally区はcatchが有ろうがなかろうが、最終的に必ず実行されるため"I was in finally"
+が出力される。
+従って選択肢Aが正解
+
+[lesson7_11:A]
+1. mainメソッドのtryブロック内でmethodメソッド呼び出し
+2. method内でforループ
+3. i <= 5と終了条件になっているため配列aryに対してArrayIndexOutOfBoundsExceptionが発生
+4. catch(ArrayIndexOutOfBoundsException)にてcatchし、"catch1"を出力
+5. finally区で"done"を出力
+6. (try-catch-finallyブロックが終了したので)"done"を出力
+出力は"catch1 finally done."と出力したため選択肢Aが正解
+
+[lesson7_12:E]
+メンバー変数のInteger型の変数iがコンストラクタによってnullで初期化されるため、
+this.iの箇所でNullPointerExceptionが発生する。
+従って選択肢Eが正解
+
+※メンバー変数Integerをintに修正すると"s = 0 : i = 5"が出力される
+※int型などのプリミティブ型のメンバー変数はクラスがインスタンスかされたときに0で初期化される
+
+[lesson7_13:E]
+問題2の類題
+※問題2の解説を読む！
+サブクラスの例外のオーバーライドの問題。
+8行目で親クラスのNumberFormatExceptionのスーパークラスのExceptionをスロー
+しているため選択肢Eが正解
+
+[lesson7_14:G]
+Integer.parseIntメソッドに"a"を渡しているためNumberFormatExceptionが発生する。
+従って選択肢Gが正解
+
+[lesson7_15:D]
+MyCarはVehicleクラスのサブクラスで、各メソッドをオーバーライドしてます。
+check例外をスローするメソッドをオーバーライドする際は親クラスの例外と同じ例外、またはその例外クラスの
+サブクラスをスルーする必要があるため15行目を修正する必要がある。
+(または親クラスのgetSpeedメソッドにthrows IOExceptionを付加)
+従って選択肢Dが正解
+
+[lesson7_16:E]
+※ちょっと流れが分かりづらい問題であるが、finallyに"D"が出力されることから、選択肢B,Dは除外される。
+また、"B"の出力は、12行目でFooメソッドが必ず例外をスローしているため呼ばれることはないので、
+選択肢A,C除外されます。
+従って残りの選択肢はE,Fのみとなる。
+こういう選択肢が多い問題はまず除外できる選択肢から答えを導くと良い
+
+12→7→15→4→7→キャッチしてないのでfinally→"D"が出力→プログラム終了してMyExceptionの
+スタックトレースが出力
+従って選択肢Eが正解

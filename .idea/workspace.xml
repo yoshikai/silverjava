@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter7の練習問題を追加">
-      <change beforePath="$PROJECT_DIR$/src/chap7/p324/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/p324/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/99_answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap7/lesson/ex15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap7/lesson/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap7/lesson/16.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +69,13 @@
       <recent name="C:\Users\yoshi\IdeaProjects\silver_java\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.chap6.ex6_22.Main">
-    <configuration name="Cow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap6.ex6_16.Cow" />
+  <component name="RunManager" selected="アプリケーション.ex12">
+    <configuration name="ex12 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap7.lesson.ex12" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap6.ex6_16.*" />
+          <option name="PATTERN" value="chap7.lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap6.ex6_18.Main" />
+    <configuration name="ex12 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap7.lesson.ex12" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap6.ex6_18.*" />
+          <option name="PATTERN" value="chap7.lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap6.ex6_14.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap6.ex6_14.Main" />
+    <configuration name="ex12 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap7.lesson.ex12" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap6.ex6_14.*" />
+          <option name="PATTERN" value="chap7.lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap6.ex6_17.Cow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap6.ex6_17.Cow" />
+    <configuration name="ex12 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap7.lesson.ex12" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap6.ex6_17.*" />
+          <option name="PATTERN" value="chap7.lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap6.ex6_22.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap6.ex6_22.Main" />
+    <configuration name="ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap7.lesson.ex12" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap6.ex6_22.*" />
+          <option name="PATTERN" value="chap7.lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="アプリケーション.chap6.ex6_22.Main" />
-        <item itemvalue="アプリケーション.Main" />
-        <item itemvalue="アプリケーション.chap6.ex6_17.Cow" />
-        <item itemvalue="アプリケーション.Cow" />
-        <item itemvalue="アプリケーション.chap6.ex6_14.Main (1)" />
+        <item itemvalue="アプリケーション.ex12" />
+        <item itemvalue="アプリケーション.ex12 (5)" />
+        <item itemvalue="アプリケーション.ex12 (4)" />
+        <item itemvalue="アプリケーション.ex12 (3)" />
+        <item itemvalue="アプリケーション.ex12 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684662132911</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="chapter7の練習問題を追加">
+      <created>1684662232620</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684662232620</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

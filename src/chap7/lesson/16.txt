@@ -1,22 +1,23 @@
 次のコードがあります。
 
+class MyException extends RuntimeException{}    //1
 public class Main {
-    static void bar() {
+    static void bar() {                         //4
         foo();
     }
-    static void foo() throws MyException {
+    static void foo() throws MyException {      //7
         throw new MyException();
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) {    //10
         try {
-            foo();
+            foo();                              //12
             System.out.println("B");
         } catch (MyException e) {
-            bar();
+            bar();                              //15
         } catch (RuntimeException e) {
-            System.out.println("C");
+            System.out.println("C");            //17
         } finally {
-            System.out.println("D");
+            System.out.println("D");            //19
         }
     }
 }
