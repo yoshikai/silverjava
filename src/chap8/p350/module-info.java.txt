@@ -1,0 +1,5 @@
+//module-info.java.txt
+//chap8.p350.sample //モジュール宣言
+module chap8.p350 {
+    requires java.base; //これはすべてのモジュールに暗黙的に含まれるため省略可能
+}

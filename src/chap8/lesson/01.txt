@@ -1,0 +1,8 @@
+Java SEが提供するモジュールのうち、全てのモジュール宣言で暗黙的に
+requiresとなるモジュールは次のどれですか？１つ選択してください
+
+A. java.basicモジュール
+B. java.seモジュール
+C. java.langモジュール
+D. java.baseモジュール
+E. java.jdkモジュール

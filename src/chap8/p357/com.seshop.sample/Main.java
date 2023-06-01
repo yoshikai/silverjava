@@ -1,4 +1,4 @@
-package chap8._02.com.seshop.sample;
+package chap8.p357.com.seshop.sample;
 
 public class Main {
     public static void main(String[] args) {

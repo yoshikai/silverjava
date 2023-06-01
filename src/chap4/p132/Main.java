@@ -8,7 +8,10 @@ public class Main {
         }
         System.out.println();  //改行
         for (int count2 = 0; count2 < 5; ) { // 式3を省略した例
+            System.out.print(count1 + " ");
             System.out.print(count2++ + " "); // 処理文内でカウンタ変数の更新
         }
+
+
     }
 }

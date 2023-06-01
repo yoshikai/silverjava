@@ -8,7 +8,7 @@ public class Main {
         for (char c : array) {  // 拡張for文で処理する場合
             System.out.print(c + " ");
         }
-        System.out.println(); //改行　※改行の別の方法System.out.print("\n");
+        System.out.println(); //改行
         // for文で処理する場合
         for (int count = 0; count < array.length; count++) {
             System.out.print(array[count] + " ");

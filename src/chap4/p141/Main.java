@@ -1,6 +1,7 @@
 package chap4.p141;
 
-public class Main {
+public class
+Main {
     public static void main(String[] args) {
         loop1:  //ラベルloop1指定
         for (int x = 0; x < 3; x++) {

@@ -1,0 +1,8 @@
+module-info.javaのファイル説明として正しいものは次のどれですか。
+2つ選択してください。
+
+A. module-info.javaの名前は固定である。
+B. module-info.javaの中身は空にできない
+C. module-info.javaのコンパイルは不要である
+D. 公開するパッケージ名は、exportsディレクティブを使用する
+E. モジュール名はドットに区切られた階層化された名前でなければならない
