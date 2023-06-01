@@ -15,8 +15,8 @@ B. for(String s ; arrays) System.out.println(s);
 C. foreach(arrays) System.out.println(arrays);
 D. while(arrays.hasNext()) System.out.println(arrays.next());
 E. foreach(String arrays : s) System.out.println(s);
-F. for(String s arrays) System.out.println(s);
+F. for(String s : arrays) System.out.println(s);
 G. for(int i=0 i<arrays.length(); i++)
        System.out.println(arrays[i]);
-H. for(int i=0 i<arrays.length; i++)
+H. for(int i=0; i<arrays.length; i++)
        System.out.println(arrays[i]);
