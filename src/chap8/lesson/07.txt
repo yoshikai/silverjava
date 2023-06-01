@@ -1,0 +1,8 @@
+問題8-6のxyz.testモジュールのdd.ee.Mainクラスを実行するコマンドラインとして
+正しいものは次のどれですか。１つ選択してください。
+なお、実行時はコンパイルを行った同じディレクトリとします。
+
+A. java -p ..\bin -m xyz.test/dd.ee.Main
+B. java -p ..\bin xyz.test/dd.ee.Main
+C. java -p ..\bin -m xyz.test dd.ee.Main
+D. java -p ..\bin xyz.test dd.ee.Main

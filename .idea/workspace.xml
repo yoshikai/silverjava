@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="Chap8の問題を追加">
+    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="問題を修正">
+      <change afterPath="$PROJECT_DIR$/src/chap8/lesson/03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap8/lesson/04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap8/lesson/05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap8/lesson/06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap8/lesson/07.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap4/lesson/02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/lesson/02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap4/lesson/05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/lesson/05.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +284,28 @@
       <option name="project" value="LOCAL" />
       <updated>1685588628195</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="問題を修正">
+      <created>1685590808710</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1685590808710</updated>
+    </task>
+    <task id="LOCAL-00017" summary="問題を修正">
+      <created>1685590815842</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685590815842</updated>
+    </task>
+    <task id="LOCAL-00018" summary="問題を修正">
+      <created>1685590837252</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685590837252</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,7 +332,8 @@
     <MESSAGE value="chapter7の練習問題を追加" />
     <MESSAGE value="授業時の修正を追加" />
     <MESSAGE value="Chap8の問題を追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chap8の問題を追加" />
+    <MESSAGE value="問題を修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="問題を修正" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
