@@ -5,12 +5,12 @@ public class Main {
         double d = 10.5;
         //int i = d;
         int i = (int) d;
-        System.out.println("i�̒l�F" + i);
+        System.out.println("iの値:" + i);
         //foo(i);
         foo((short) i);
     }
 
     static void foo(short a) {
-        System.out.println("a�̒l�F" + a);
+        System.out.println("aの値:" + a);
     }
 }

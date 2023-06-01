@@ -7,6 +7,9 @@ public class Main {
             System.out.println("aは正の値です。");
             if (a % 2 == 0) {
                 System.out.println("aは偶数です。");
+
+
+
             }
         } else {
             if (a == 0) {

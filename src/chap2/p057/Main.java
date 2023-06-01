@@ -1,4 +1,4 @@
-package chap2;
+package chap2.p057;
 
 public class Main {
     public static void main(String[] args) {
