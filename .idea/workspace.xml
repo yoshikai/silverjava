@@ -4,43 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="chapter7の練習問題を追加">
-      <change afterPath="$PROJECT_DIR$/src/chap2/ArrayTestSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ArrayTestSample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ArrayTestSample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ArrayTestSample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/ArrayTestSample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/CommandLineArgsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap2/exam.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/IfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ReplaceSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/ShiftSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/StringBuilderSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p083/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p087/CastSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p093/CalcSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p093/CastSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p093/MethodSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p105/SwitchSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3/p106/SwitchSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="Chap8の問題を追加">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap1/p007/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1/p007/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/lesson/03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/03.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/lesson/04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/04.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/lesson/99_answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/lesson/99_answer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap2/p057/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap2/p057/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/lesson/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/lesson/10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/p073/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p073/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/p077/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p077/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/p079/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p079/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/p086/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p086/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/p090/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p090/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/p093/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p093/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap3/p101/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap3/p101/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap4/p131/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p131/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap4/p132/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/p132/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/lesson/02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/lesson/02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4/lesson/05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4/lesson/05.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +63,20 @@
       <recent name="C:\Users\yoshi\IdeaProjects\silver_java\doc" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.chap4.p125.Main">
+  <component name="RunManager" selected="アプリケーション.ArraySample">
+    <configuration name="ArraySample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap4.p141.ArraySample" />
+      <module name="silver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap4.p141.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CommandLineArgsTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap2.CommandLineArgsTest" />
       <module name="silver_java" />
@@ -151,32 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap3.StringBuilderSample" />
-      <module name="silver_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap3.StringSample" />
-      <module name="silver_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="chap4.p125.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap4.p125.Main" />
       <module name="silver_java" />
@@ -190,13 +144,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chap4.p138.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap4.p138.Main" />
+      <module name="silver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap4.p138.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.ArraySample" />
+        <item itemvalue="アプリケーション.chap4.p138.Main" />
         <item itemvalue="アプリケーション.chap4.p125.Main" />
         <item itemvalue="アプリケーション.IfTest" />
         <item itemvalue="アプリケーション.ReplaceSample" />
-        <item itemvalue="アプリケーション.StringBuilderSample" />
-        <item itemvalue="アプリケーション.StringSample" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +260,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684662232620</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="授業時の修正を追加">
+      <created>1685581871880</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685581871880</updated>
+    </task>
+    <task id="LOCAL-00014" summary="授業時の修正を追加">
+      <created>1685583125300</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685583125300</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Chap8の問題を追加">
+      <created>1685588628195</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685588628195</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +306,9 @@
     <MESSAGE value="chapter6の練習問題を追加" />
     <MESSAGE value="chapter6の練習問題の解答を追加" />
     <MESSAGE value="chapter7の練習問題を追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter7の練習問題を追加" />
+    <MESSAGE value="授業時の修正を追加" />
+    <MESSAGE value="Chap8の問題を追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chap8の問題を追加" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
