@@ -21,8 +21,10 @@ public class Main {
         Test.methodB();                           // OK
         Test obj = new Test();
         System.out.println(obj.instanceVal);      // OK
-        System.out.println(obj.staticVal);        // OK
+        System.out.println(obj.staticVal);        // [警告あり]OK
+        System.out.println(Test.staticVal);       // 本来はこちらが正
         obj.methodA();                            // OK
-        obj.methodB();                            // OK
+        obj.methodB();                            // [警告あり]OK
+        Test.methodB();                           // 本来はこちらが正
     }
 }

@@ -4,7 +4,6 @@ class SuperA {    //スーパークラス
     void methodA() {
         System.out.println("SuperA:methodA()");
     }
-
     static void methodB() {
         System.out.println("SuperA:methodB()");
     }

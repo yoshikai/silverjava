@@ -1,6 +1,6 @@
 package chap6.p220;
 
-class Employee {   // スーパークラスの定義
+class  Employee{   // スーパークラスの定義
     private String id = "100";
     public String getId() {
         return id;
@@ -22,5 +22,8 @@ public class Main {  // サブクラスを利用しているクラス
         System.out.println("clientName : " + s.getClientName());
         // スーパークラスで定義したメソッドの呼び出し
         System.out.println("id         : " + s.getId());
+
+        Employee e = new Employee();
+        e.toString();
     }
 }

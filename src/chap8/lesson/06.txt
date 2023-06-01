@@ -1,0 +1,37 @@
+要件として以下があります。
+
+【要件】
+・以下の２つのクラスはともにxyz.testモジュールに属する
+・Main.javaとPlay.javaは、xyz.test\srcに保存されている
+・コンパイル後のクラスファイルは、xyz.test\binに保存したい。
+　また、各クラスのパッケージに該当するディレクトリはまだ作成されていないため、
+　コンパイル時に生成する
+・適切なmodule-info.javaはbinディレクトリ内に保存されている
+
+Main.javaとPlay.javaのコードは以下のとおりです。
+
+【Main.java】
+package dd.ee;
+import aa.bb.Play;
+public class Main {
+    public static void main(String[] args) {
+        Play.x();
+    }
+}
+【Play.java】
+package aa.bb;
+public class Play {
+    public static void x() {
+        System.out.println("Play::x");
+    }
+}
+
+２つのファイルをコンパイルするコマンドラインとして正しいものは次のどれですか？
+１つ選択してください。なお、コンパイルはxyz.test\srcディレクトリで行うものとします。
+
+A. javac -d . Play.java Main.java
+B. javac -d ..\bin Play.java Main.java
+C. javac -m ..\bin Play.java Main.java
+D. javac -cp . Play.java Main.java
+E. javac -cp . ..\Play.java Main.java
+

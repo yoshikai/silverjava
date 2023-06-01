@@ -2,17 +2,17 @@
 
 class Test {
     static void methodA() {
-        methodB();          //3行目
-        Test.methodB();     //4
-        methodC();          //5
-        Test.methodD();     //6
+        methodB();          //3行目 〇
+        Test.methodB();     //4　〇
+        methodC();          //5　×
+        Test.methodD();     //6　×
     }
     static void methodB() {}
     void methodC() {
-        methodB();          //10
-        Test.methodB();     //11
-        methodD();          //12
-        Test.methodD();     //13
+        methodB();          //10　Test.methodB()がベター（警告が出る）
+        Test.methodB();     //11　〇
+        methodD();          //12　〇
+        Test.methodD();     //13　×
     }
     void methodD() {}
 }

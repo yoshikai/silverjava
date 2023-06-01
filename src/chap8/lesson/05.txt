@@ -1,0 +1,8 @@
+モジュールの解決の様子が出力されるコマンドは次のどれですか？
+１つ選択してください。
+
+A. java --show-module-resolution <省略>
+B. jdeps <省略>
+C. jar --show <省略>
+D. mods <省略>
+E. jmods <省略>

@@ -1,0 +1,25 @@
+次のコードがあります。
+
+[Foo.java]
+package a;
+import java.time.LocalDate;
+class Foo {
+    public void showDate() { System.out.println(LocalDate.now());}
+}
+
+[Main.java]
+package b;
+import a.Foo;
+
+public class Main {
+    public static void main(String[] args) {
+        new Foo().showDate();
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。１つ選択してください。
+
+A. Foo.javaでコンパイルエラー
+B. Main.javaでコンパイルエラー
+C. Foo.javaとMain.javaともにコンパイルエラー
+D. Mainを実行すると、実行時エラーが発生する。

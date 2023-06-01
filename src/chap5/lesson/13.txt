@@ -11,15 +11,15 @@ class Foo {
 
 public class Main {
     public static void main(String[] args) {
-        Foo f1 = new Foo(500);                  //10
+        Foo f1 = new Foo(500);                  //10        f1.x = 500
         System.out.print(" 1 : " + f1.getX());  //11
         Main obj = new Main();                  //12
-        Foo f2 = obj.toObj(f1);                 //13
+        Foo f2 = obj.toObj(f1);                 //13        f2.x = 100
         System.out.print(" 2 : " + f2.getX());  //14
     }
 
-    Foo toObj(Foo f1) {
-        Foo f2 = new Foo(100);                  //17
+    Foo toObj(Foo f1) {                                     f1.x = 500
+        Foo f2 = new Foo(100);                  //17        f2.x = 100
         System.out.print(" 3 : " + f1.getX());  //18
         return f2;                              //19
     }

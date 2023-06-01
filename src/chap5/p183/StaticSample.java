@@ -2,7 +2,7 @@ package chap5.p183;
 
 public class StaticSample{
 	public static void main(String[] args){
-		for(int i=0; i < 10; i++){
+		for(int i=0; i < 5; i++){
 			Sample s = new Sample(100);
 			s.incrementVal();
 			s.show();
@@ -36,5 +36,4 @@ class Sample {
 	public void show(){
 		System.out.println("[static]:" + Sample.staticVal + " [member]:" + this.memberVal);
 	}
-
 }

@@ -4,7 +4,6 @@ class SuperA {  //スーパークラス
     public void print(String s) {
         System.out.println("SuperA print : " + s);
     }
-
     public void method() {
     }
 }

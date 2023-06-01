@@ -1,0 +1,14 @@
+次のmodule-info.javaファイルがあります。
+
+module com.mypj.modeA {
+    requires com.mypj.modeB;
+    exports com.mypj.modeA.pkg;
+}
+
+説明として正しいものはどれですか。2つ選択してください
+
+A. com.mypj.modeAは、com.mypj.modeBに依存している
+B. com.mypj.modeBは、com.mypj.modeAに依存している
+C. com.mypj.modeBは、パッケージを公開している
+D. モジュール名は、com.mypj.modeA.pkgである
+E. モジュール名は、com.mypj.modeAである

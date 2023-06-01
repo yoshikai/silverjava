@@ -30,6 +30,5 @@ public class Main {
         System.out.println("methodC()" + obj.methodC(10, 20));
         obj.methodB();      // デフォルトメソッドの呼び出し
         MyInter2.methodD(); // staticメソッドの呼び出し
-
     }
 }

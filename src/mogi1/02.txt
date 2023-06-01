@@ -1,0 +1,18 @@
+ソースファイル内に記述する順番として正しいものは次のどれですか
+１つ選択してください。
+
+A. import
+   package
+   class
+B. class
+   package
+   import
+C. class
+   import
+   package
+D. package
+   class
+   import
+E. package
+   import
+   class

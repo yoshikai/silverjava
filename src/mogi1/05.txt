@@ -1,0 +1,30 @@
+次のコードがあります。
+
+package mogi1.ex_5.src.com.se;
+
+public class Main {
+    private int num;
+    public int getNum() { return num; }
+    public void setNum(int num) { this.num = num; }
+    public static void main(String[] args) {
+        Main obj = new Main();
+        obj.setNum(100);
+        System.out.println(obj.getNum());
+    }
+}
+
+【要件】
+・Main.javaは、ex-5¥src¥com¥seディレクトリに保存されている
+・コンパイル後のクラスふぁいるは、class以下に保存したい
+・コンパイル、実行は、ex-5ディレクトリで行うものとする。
+
+コンパイル、実行のコマンドラインとして正しいものは次のどれですか。
+１つ選択してください。
+
+A.
+B.
+C.
+D.
+D.
+E.
+

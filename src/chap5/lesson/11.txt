@@ -5,13 +5,13 @@ public class Main {
         Main ojb1 = new Main();                 //3行目
         Main ojb2 = new Main();                 //4
         System.out.print(ojb1 == ojb2);         //5
-        ojb2 = operate(ojb1, ojb2);             //6
+        ojb2 = operate(ojb1, ojb2);             //6 ojb2 は１丁目１番地
         System.out.print(" " + (ojb1 == ojb2)); //7
     }
 
     static Main operate(Main ojb1, Main ojb2) {
-        Main ojb3 = ojb1;
-        ojb1 = ojb2;
+        Main ojb3 = ojb1;   //ojb3 は1丁目１番地
+        ojb1 = ojb2;        //ojb2 は２丁目１番地
         return ojb3;
     }
 }

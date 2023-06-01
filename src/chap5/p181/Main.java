@@ -16,9 +16,9 @@ class Test {
     public void method(int... a) {
         System.out.println("method(int... a)");
     }
-    //public void method(int[] a) {
-    //  System.out.println("method(int[] a)");
-    //}
+//    public void method(int[] a) {
+//      System.out.println("method(int[] a)");
+//    }
 }
 
 public class Main {

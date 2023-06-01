@@ -1,0 +1,21 @@
+Main.javaとして保存された次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println(args[1] + " " + args[2]);
+    }
+}
+
+実行した際に、20 30と出力するコマンドラインは次のどれですか。
+１つ選択してください。
+
+A. javac Main
+   java Main 20 30
+B. Javac Main.java
+   java Main 20 30
+C. javac Main.java
+   java Main.class 20 30
+D. javac Main
+   java Main 10 20 30
+E. javac Main.java
+   java Main 10 20 30

@@ -1,0 +1,9 @@
+依存関係を調べるコマンドで、依存するモジュール名や、
+必要とするパッケージ名を表示するものは次のどれですか？
+１つ選択してください。
+
+A. java --show-module-resolution <省略>
+B. jdeps <省略>
+C. jar -show <省略>
+D. mods <省略>
+E. jmods <省略>
