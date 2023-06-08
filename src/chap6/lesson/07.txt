@@ -1,10 +1,10 @@
 次のコードがあります。
 
 class A {
-     A(String message) {    //2
-         System.out.println(message + " from A.");
-     }
- }
+    A(String message) {    //2
+        System.out.println(message + " from A.");
+    }
+}
  class B extends A {
      B() {                  //7
          System.out.println("Hello from B.");
@@ -12,11 +12,12 @@ class A {
  }
  public class Main {
      public static void main(String[] args) {
-         B b = new B();
+         B b = new B(); //11
      }
  }
 
-コンパイル、実行した結果として正しいものは次のどれですか1つ選択してください。
+コンパイル、実行した結果として正しいものは次のどれですか。
+1つ選択してください。
 
 A. Hello from B.
 B. 2行目でコンパイルエラーが発生する

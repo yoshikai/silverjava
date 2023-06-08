@@ -8,8 +8,8 @@ class SuperClass {
 }
 class SubClass extends SuperClass {
     SubClass(int j) {
-    [ 1 ]
-    [ 2 ]
+        [ 1 ]
+        [ 2 ]
     }
 }
 public class Main {
