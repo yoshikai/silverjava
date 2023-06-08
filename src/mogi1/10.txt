@@ -1,0 +1,21 @@
+次のコード（抜粋）があります。
+
+public class Test{
+    var name = "test";  //1
+    void exe(var data){ //2
+        var emp = new Employee();       //3
+        var list = new ArrayList<>();   //4
+        var final point = 10;           //5
+        for(var e=0; e<10; e++){}       //6
+    }
+}
+
+コンパイルエラーとなる行は次のどれですか。
+３つ選択してください。
+
+A. 1
+B. 2
+C. 3
+D. 4
+E. 5
+F. 6

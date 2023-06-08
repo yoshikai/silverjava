@@ -21,6 +21,12 @@ public class MogiQaTool {
         File dir = new File(RESULT_PATH);
         File[] files = dir.listFiles(new TextFileFilter());
         if(files == null) return;
+
+        //まとめファイル出力
+        String all = "all.txt";
+        File allFile = new File(RESULT_PATH + "/" + all);
+        FileWriter allFw = new FileWriter(allFile, false);
+
         for(int i=0; i<files.length; i++){
             try {
                 //回答文読み込み
@@ -30,8 +36,11 @@ public class MogiQaTool {
                 String out = "【採点済み】" + files[i].getName();
                 File outFile = new File(RESULT_PATH + "/" + out);
                 FileWriter fw = new FileWriter(outFile, false);
+                //まとめファイルに名前を追加
+                allFw.append(files[i].getName());
 
                 String data;
+                int examCnt = 0;
                 int correctCnt = 0;
                 while ((data = br.readLine()) != null) {
                     System.out.println(data);
@@ -57,9 +66,10 @@ public class MogiQaTool {
                         //回答した問題文に対応する回答がない場合→回答のナンバリングが間違えているため
                         //添削結果に追加
                     }
+                    examCnt++;  //出題数をインクリメント
                     String correct = resultMap.get(tmp[0]);
                     //正誤判定
-                    correctionMsg.append("\t");
+                    correctionMsg.append("\t"); //タブ文字追加
                     if(correct.equals(tmp[1])){
                         correctionMsg.append("〇");
                         correctCnt++;
@@ -69,6 +79,10 @@ public class MogiQaTool {
                     }
                     fw.append(data).append(correctionMsg).write("\r\n");;
                 }
+                String result = "正解数:" + correctCnt + " / 出題数:" + mohan.getExamCnt();
+                fw.append("\r\n").append(result).flush();
+                //まとめファイルには正解数/問題数を出力
+                allFw.append("\t" + correctCnt + "/" + mohan.getExamCnt() + "\r\n").flush();
 
                 fw.flush();
                 fw.close();
@@ -84,6 +98,8 @@ public class MogiQaTool {
                 throw new RuntimeException(e);
             }
         }
+        allFw.flush();
+        allFw.close();
     }
 }
 
@@ -93,6 +109,12 @@ public class MogiQaTool {
 class TextFileFilter implements FilenameFilter{
     @Override
     public boolean accept(File dir, String name) {
+        if(name.matches("^(?=.*all).*$")){
+            return false;
+        }
+        if(name.matches("^(?=.*採点済).*$")){
+            return false;
+        }
         if (name.endsWith(".txt")) {
             return true;
         }
@@ -104,10 +126,10 @@ class TextFileFilter implements FilenameFilter{
  * 模範解答を取得保持するクラス
  */
 class Mohan{
-
     private String path = null;
     private String name = null;
 
+    private int examCnt = 0;
     private Map<String, String> map = new HashMap<String, String>();
     /**
      * 模範解答のファイルパスとファイル名を受け取り、
@@ -129,6 +151,7 @@ class Mohan{
         while ((data = br.readLine()) != null) {
             String[] tmp = data.split(":");
             this.map.put(tmp[0],tmp[1]);
+            examCnt++;
         }
         br.close();
         fis.close();
@@ -136,6 +159,14 @@ class Mohan{
 
     public Map<String, String> getAnswerMap(){
         return this.map;
+    }
+
+    /**
+     * 出題数を返すメソッド
+     * @return
+     */
+    public int getExamCnt(){
+        return this.examCnt;
     }
 }
 

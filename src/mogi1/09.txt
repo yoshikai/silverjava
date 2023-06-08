@@ -1,0 +1,11 @@
+コンパイルエラーとなる文は次のどれですか。
+３つ選択してください。
+
+A. String ccc# = "aa";
+B. boolean true = (4 == 4);
+C. char c = 'a';
+   short s = (short)c;
+D. int a = 1_2;
+E. short x = (short)'A';
+F. short y = 100;
+   char z = y;

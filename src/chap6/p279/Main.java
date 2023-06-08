@@ -36,6 +36,12 @@ public class Main {
         lists.forEach((Integer num) -> {
             System.out.print(num + " ");
         });
-        //lists.forEach(num -> System.out.print(num + " "));
+//        lists.forEach(num -> System.out.print(num + " "));
+        List<String> ls = new ArrayList<>();
+        ls.add("100");
+        ls.add("200");
+        ls.add("300");
+        ls.forEach(str -> System.out.println(str));
+
     }
 }

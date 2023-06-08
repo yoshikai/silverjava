@@ -1,6 +1,6 @@
 次のコードがあります。
 
-package mogi1.ex_5.src.com.se;
+package com.se;
 
 public class Main {
     private int num;
@@ -18,13 +18,27 @@ public class Main {
 ・コンパイル後のクラスふぁいるは、class以下に保存したい
 ・コンパイル、実行は、ex-5ディレクトリで行うものとする。
 
+【ディレクトリ階層】
+ex-5   //コンパイル・実行を行うディレクトリ
+├─classes
+└─src
+    └─com
+        └─se
+           └─Main.java
+
 コンパイル、実行のコマンドラインとして正しいものは次のどれですか。
 １つ選択してください。
 
-A.
-B.
-C.
-D.
-D.
-E.
+A. javac -d classes src\com\se\Main.java
+   java -cp classes com.se.Main
+B. javac -d classes src\com\se\Main.java
+   java -cp classes\com\se\Main
+C. javac -d classes src\com\se\Main.java
+   java -cp src com.se.Main
+D. javac -d classes\com\se\Main.java
+   java -cp src com.se.Main
+D. javac -d classes\com\se\Main.java
+   java -cp src com.se.Main
+E. javac -d src\com\se Main.java
+   java -cp classes\com\se Main
 

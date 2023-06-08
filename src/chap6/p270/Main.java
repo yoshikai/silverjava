@@ -11,7 +11,7 @@ public class Main {
         print(ary1);
         System.out.println();
         Object[] ary2 = {"hello", 10};
-        //Arrays.sort(ary2);
+        Arrays.sort(ary2);
     }
 
     public static void print(int[] ary) {
