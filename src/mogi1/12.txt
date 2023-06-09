@@ -1,0 +1,23 @@
+次のコードがあります。
+public class Main {
+    public static void main(String[] args) {
+        int x, y;
+        if (y != 0) {
+            x = 0;
+            y = 10;
+        } else {
+            y = 20;
+        }
+        System.out.print(x + ":" + y);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. 0:20
+B. 0:10
+C. 0.0
+D. コンパイルエラー
+E. 実行時エラー
+

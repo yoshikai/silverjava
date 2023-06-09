@@ -1,0 +1,21 @@
+次のコードがあります。
+
+public class Main {
+    String d;
+    String foo(String s) {
+        s += "abc";
+        return s;
+    }
+    public static void main(String[] args) {
+        System.out.print(new Main().d);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. abc
+B. NULL
+C. null
+D. コードは実行されるが、何も出力されない
+E. コンパイルエラー

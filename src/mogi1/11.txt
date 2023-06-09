@@ -1,0 +1,22 @@
+次のコードがあります。
+
+public class Main{
+    public static void main(String[] args){
+        char[][] ary = {{'a','b'},{'e','f'}};
+        for(char[] ar : ary){
+            for(char c : ar){
+                System.out.print(c);
+            }
+            System.out.print(" ");
+        }
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. a b e f
+B. ab ef
+C. ae bf
+D. コンパイルエラー
+E. 実行時エラー

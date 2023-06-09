@@ -43,9 +43,8 @@ public class MogiQaTool {
                 int examCnt = 0;
                 int correctCnt = 0;
                 while ((data = br.readLine()) != null) {
-                    System.out.println(data);
                     //先頭が#の場合はスキップ
-                    if(data != null && data.startsWith("#")){
+                    if(data == null || data.isEmpty() || data.startsWith("#")){
                         continue;
                     }
                     String[] tmp = data.split(":");
@@ -55,12 +54,7 @@ public class MogiQaTool {
                     if(tmp == null || tmp.length != 2){
                         continue;
                     }
-                    if(tmp[0] == null || tmp[0].length() == 0){
-                        //問題番号がnullの場合は警告
-                    }
-                    if(tmp[1] == null || tmp[1].length() == 0){
-                        //回答がnullの場合は結果にfalseをセット
-                    }
+                    tmp[1] = commaTextSort(tmp[1]);
                     //回答した問題Noに対する正解を取得
                     if(!resultMap.containsKey(tmp[0])){
                         //回答した問題文に対応する回答がない場合→回答のナンバリングが間違えているため
@@ -69,10 +63,10 @@ public class MogiQaTool {
                     examCnt++;  //出題数をインクリメント
                     String correct = resultMap.get(tmp[0]);
                     //正誤判定
-                    correctionMsg.append("\t"); //タブ文字追加
+                    correctionMsg.append("\t\t"); //タブ文字追加
                     if(correct.equals(tmp[1])){
                         correctionMsg.append("〇");
-                        correctCnt++;
+                        correctCnt++;   //正解数をインクリメント
                     }
                     else{
                         correctionMsg.append("×");
@@ -100,6 +94,26 @@ public class MogiQaTool {
         }
         allFw.flush();
         allFw.close();
+    }
+
+    /**
+     * カンマで区切られた文字列を、文字列のみ抜き出してソート(昇順)を行うメソッド
+     * 小文字の場合は大文字に変換します。
+     * @param s "d,c,b,a"のようなカンマ区切りの文字列
+     * @return "A,B,C,D"
+     */
+    private static String commaTextSort(String s){
+        String[] t = s.split(",");
+        Arrays.sort(t);
+        StringBuilder sb = new StringBuilder();
+        Arrays.asList(t).forEach(str -> {
+            sb.append(str.toUpperCase() + ",");
+        });
+        int i = sb.lastIndexOf(",");
+        if(i > 0){
+            return sb.substring(0, i);
+        }
+        return sb.toString();
     }
 }
 
@@ -149,7 +163,14 @@ class Mohan{
         BufferedReader br = new BufferedReader(new InputStreamReader(fis));
         String data;
         while ((data = br.readLine()) != null) {
+            //#で始まった行は無視
+            if(data == null || data.isEmpty() || data.startsWith("#")){
+                continue;
+            }
             String[] tmp = data.split(":");
+            if(tmp.length == 2 && tmp[1] != null){
+                tmp[1] = tmp[1].toUpperCase();  //回答を大文字に変換
+            }
             this.map.put(tmp[0],tmp[1]);
             examCnt++;
         }
@@ -162,7 +183,7 @@ class Mohan{
     }
 
     /**
-     * 出題数を返すメソッド
+     * 出題数（返却しているのは回答数だけど）を返すメソッド
      * @return
      */
     public int getExamCnt(){

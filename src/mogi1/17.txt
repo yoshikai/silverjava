@@ -1,0 +1,24 @@
+次のコードはコンパイルエラーとなります。
+
+public class Main {
+    public static void main(String[] args) {
+        String s1 = "MON";
+        String[] s2 = {"TUE"};
+        final String s3 = "FRI";
+        switch (s2[0]) {
+            case s1:
+                System.out.print("Monday ");
+            case "TUE":
+                System.out.print("Tuesday ");
+            case s3:
+                System.out.print("Friday ");
+        }
+    }
+}
+
+A. 3行目の変数宣言にfinalを付与する
+B. 4行目の変数宣言にfinalを付与する
+C. 5行目の変遷気にあるfinalを削除する
+D. 6行目の式を、s2[0]から"TUE"に修正する
+E. 9行目のcaseの値を、"TUE"からs2[0]に修正する
+F. 11行目のcaseの値を、s3から"FRI"に修正する

@@ -4,7 +4,8 @@ abstract class MyClass {
     abstract void x();
 }
 
-MyClassクラスを正しく利用するクラスは次のどれですか。2つ選択してください。
+MyClassクラスを正しく利用するクラスは次のどれですか。
+2つ選択してください。
 
 A. class Y extends MyClass{ void x(){}}
 B. abstract class Y extends MyClass{ abstract void y();}

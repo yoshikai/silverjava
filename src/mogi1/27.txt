@@ -1,0 +1,22 @@
+次のコードがあります。
+
+public class Main {
+    static String data;
+    public static void main(String[] args) {
+        switch (data) {
+            case "a": data += "xx";
+            default: data += "yy";
+            case "b": data += "zz";
+        }
+        System.out.println(data);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. yy
+B. yyzz
+C. null
+D. コンパイルエラー
+E. 実行時エラー

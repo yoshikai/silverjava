@@ -1,0 +1,17 @@
+次のコード(抜粋)があります。
+
+StringBuilder sb = new StringBuilder();
+sb.insert(0, "-1");
+sb.insert(0, "2");
+sb.insert(0, "5");
+System.out.println(sb);
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. -125
+B. 52-1
+C. 0-10205
+D. 050201-1
+E. コンパイルエラー
+F. 実行時エラー

@@ -1,9 +1,22 @@
 package chap6;
 
+import java.util.Arrays;
 public class Car {
     public static void main(String[] args){
-        int x = 1, y = 9, z = 10;
-        System.out.println((x = y + 1 / 5) + ":" + (z / 4));
+        String s = "d,c,b,a";
+        String[] t = s.split(",");
+        Arrays.sort(t);
+        StringBuilder sb = new StringBuilder();
+        Arrays.asList(t).forEach(str -> {
+            sb.append(str.toUpperCase() + ",");
+        });
+        int i = sb.lastIndexOf(",");
+        if(i > 0){
+            System.out.println(sb.substring(0, i));
+        }
+        else{
+            System.out.println(sb);
+        }
     }
     public void run(){System.out.println("走る");}
     public void stop(){System.out.println("停車する");}

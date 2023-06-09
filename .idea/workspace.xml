@@ -4,15 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="模擬試験１の問題を追加">
+    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="Chapter6の練習問題を修正">
+      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/exam01/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/exam02/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/exam03/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/exam04/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/exam05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/exam06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/exam07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap6/lesson/exam10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/26.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/27.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/28.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/29.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mogi1/30.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/03.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/04.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/06.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/07.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/08.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/09.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/【採点済み】吉開強.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result/【採点済み】吉開強.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/吉開強.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result/吉開強.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/山田太郎.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result/山田太郎.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/exam01/01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/exam02/02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/03.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/exam03/03.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/exam04/04.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/exam05/05.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/06.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/exam06/06.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/exam07/07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/16,txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/16,txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/lesson/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/25.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chap6/lesson/99_answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/lesson/99_answer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap6/p243/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap6/p243/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/MogiQaTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/MogiQaTool.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +91,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "C:/Users/User/cross_abilities/silverjava/src/mogi2",
@@ -65,11 +111,17 @@
       <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src\chap2\lesson" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\cross_abilities\silverjava\src\mogi1" />
-      <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src\mogi2\ex_78\my_exam" />
-      <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src\chap2\lesson" />
-      <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src\mogi1\ex_79\code" />
-      <recent name="C:\Users\yoshi\IdeaProjects\silver_java\doc" />
+      <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam07" />
+      <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam06" />
+      <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam05" />
+      <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam04" />
+      <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam03" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="chap6.lesson.exam03" />
+      <recent name="chap6.lesson.exam01" />
+      <recent name="chap6.lesson.exam02" />
+      <recent name="chap6.lesson.exam04" />
     </key>
   </component>
   <component name="RunManager" selected="アプリケーション.Car">
@@ -114,6 +166,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap6.lesson.exam03.Main03" />
+      <module name="silver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap6.lesson.exam04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MogiQaTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tools.MogiQaTool" />
       <module name="silver_java" />
@@ -127,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap6.p271.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap6.p271.Main" />
+    <configuration name="chap6.lesson.exam05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap6.lesson.exam05.Main" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap6.p271.*" />
+          <option name="PATTERN" value="chap6.lesson.exam05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,25 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chap6.p278.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap6.p278.Main" />
+    <configuration name="chap6.lesson.exam06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap6.lesson.exam06.Main" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap6.p278.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chap6.p279.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap6.p279.Main" />
-      <module name="silver_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap6.p279.*" />
+          <option name="PATTERN" value="chap6.lesson.exam06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,10 +221,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="アプリケーション.Car" />
-        <item itemvalue="アプリケーション.chap6.p279.Main" />
-        <item itemvalue="アプリケーション.chap6.p278.Main" />
         <item itemvalue="アプリケーション.MogiQaTool" />
-        <item itemvalue="アプリケーション.chap6.p271.Main" />
+        <item itemvalue="アプリケーション.chap6.lesson.exam06.Main" />
+        <item itemvalue="アプリケーション.chap6.lesson.exam05.Main" />
+        <item itemvalue="アプリケーション.Main03" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686205164622</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Chapter6の練習問題を修正">
+      <created>1686207922113</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1686207922113</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,7 +415,8 @@
     <MESSAGE value="Chap8の練習問題を追加" />
     <MESSAGE value="Chap8の練習問題の解説を追加" />
     <MESSAGE value="模擬試験１の問題を追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="模擬試験１の問題を追加" />
+    <MESSAGE value="Chapter6の練習問題を修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter6の練習問題を修正" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

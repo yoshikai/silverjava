@@ -3,14 +3,24 @@ package chap6.p243;
 public class Main {
     public static void main(String[] args){
         Animal ani = new Dog();   //サブクラスを返す何かしらのメソッド
-
-        Bark b1 = getBarkConcreteClass();
+        Bark b1 = getBarkConcreteClass(1);
+        if(b1 instanceof Wolf){
+            Wolf w = (Wolf)b1;
+            w.makeFlock();
+        } else if (b1 instanceof Dog) {
+            //犬の時の処理
+        }
         b1.bark();
 
     }
 
-    static Bark getBarkConcreteClass(){
-        return new Wolf();
+    static Bark getBarkConcreteClass(int someConditoin){
+        if(someConditoin == 0){
+            return new Wolf();
+        }
+        else{
+            return new Dog();
+        }
     }
 }
 
@@ -46,4 +56,8 @@ class Dog extends Animal implements Bark{
 class Wolf implements Bark{
     @Override
     public void bark() {System.out.println("わおーん");}
+
+    public void makeFlock(){
+        System.out.println("群れを作る");
+    }
 }

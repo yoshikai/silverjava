@@ -1,0 +1,14 @@
+次のコード(抜粋)があります。
+
+StringBuilder sb = new StringBuilder("abcd");
+//[  1  ]
+System.out.println(sb);
+
+[1]に挿入すると、aqcdと出力するコードは次のどれですか。
+１つ選択してください。
+
+A. sb.replace("b", "q");
+B. sb.replace(sb.indexOf("b"), sb.indexOf("b"), "q");
+C. sb.replace(sb.indexOf("b"), sb.indexOf("c"), "q");
+D. sb.replace(0,1, "q");
+E. sb.replace(1,1, "q");

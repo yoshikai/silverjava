@@ -1,0 +1,24 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        boolean val = true; // 1
+        switch (val) {
+            case true: // 2
+                System.out.println("true");
+                break;
+            default:
+                System.out.println("false");
+        }
+    }
+}
+
+コンパイル、実行が成功しtrueの出力結果を得るために、
+修正内容として正しいものは次のどれですか。
+2つ選択してください。
+
+A. 1を「boolean val = "true";」とし、2を「case "true":」とする
+B. 1を「boolean val = 1;」とし、2を「case 1:」とする
+C. 1を「String val = "1";」とし、2を「case "1":」とする
+D. 1を「String val = true;」とし、2を「case true:」とする
+E. 1を「String val = "true";」とし、2を「case "true":」とする

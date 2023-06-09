@@ -1,0 +1,13 @@
+次のコード(抜粋)があります。
+
+int num = 7;
+[  1  ]
+System.out.println(ans);
+
+[1]に挿入すると、Zと出力するコードは次のどれですか。
+１つ選択してください。
+
+A. String ans = num < 4 ? "X" ? num < 6 ? "Y" ? num < 8 ? "Z" : "S";
+B. String ans = num < 4 ? "X" : num < 6 ? "Y" : num < 8 : "Z" : "S";
+C. String ans = num < 4 ? "X" : num < 6 ? "Y" : num < 8 ? "Z" : "S";
+D. String ans = num < 4 ? "X" : num < 6 ? "Y" : num < 8 ? "Z" : "S";

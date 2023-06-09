@@ -1,0 +1,32 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.print("Java" + (0 / 5));
+        for (int i = 0; i < 10; i++) {
+            switch (i % 5) {
+                case 0:
+                    break;
+                case 1:
+                    i += 3;
+                    break;
+                case 2:
+                    i *= 2;
+                    break;
+                default:
+                    continue;
+            }
+            System.out.print(i + " ");
+            i++;
+        }
+    }
+}
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. java00
+B. java00 4 9
+C. java00 4 5 9 20
+D. コンパイルエラー
+E. java0の出力後、無限ループとなる
+F. 実行時エラー

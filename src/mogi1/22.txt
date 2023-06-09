@@ -1,0 +1,16 @@
+次のコード(抜粋)があります。
+
+StringBuilder sb = new StringBuilder();
+sb.append("Hello");
+sb.append("World");
+sb.insert(6, " ");
+System.out.println(sb.toString().replace('o', 'e'));
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. Helle World
+B. HelleW orld
+C. Helle Werld
+D. HelleW erld
+E. 実行時エラー

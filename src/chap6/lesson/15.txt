@@ -5,7 +5,8 @@ class Doe implements Pue { public void method() {}}
 class Hau extends Doe { public void method() {}}
 class Wia extends Doe { public void method() {}}
 
-コンパイルが成功するコードは次のどれですか。4つ選択してください。
+コンパイルが成功するコードは次のどれですか。
+4つ選択してください。
 
 A. Pue p1 = new Doe();
 B. Pue p2 = new Hau();

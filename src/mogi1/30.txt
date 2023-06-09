@@ -1,0 +1,23 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        int i = 0;
+        do {
+            i++;
+            if (i == 1) {
+                continue;
+            }
+            System.out.println(i);
+        } while (i < 1);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. 1
+B. 0
+C. コードは実行されるが、何も出力されない
+D. コンパイルエラー
+E. 実行時エラー
