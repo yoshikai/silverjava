@@ -1,0 +1,18 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        int i = 25;
+        Supplier<Integer> s = () -> i;
+        i++;
+        System.out.println(s.get());
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. 25
+B. 26
+C. コンパイルエラー
+D. 実行時エラー

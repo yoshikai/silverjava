@@ -1,0 +1,26 @@
+次のコードがあります。
+
+class Foo{}
+
+また、別のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        Foo a = new Foo();  //11
+        Foo b = new Foo();
+        Foo c = new Foo();
+        a = c;
+        c = b;
+        b = null;   //16
+    }
+}
+
+11-16行目までの実行された時点で、ガベージコレクタの対象となる
+オブジェクトの数として正しいものは次のどれですか。
+１つ選択してください。
+
+A. 0
+B. 1
+C. 2
+D. 3
+

@@ -1,0 +1,24 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        int[] ary = {10, 20, 30};
+        System.out.println(method(ary));    //NGのためコメントアウト
+    }
+    [  1  ]{
+        int max = 0;
+        // max値を取り出すコード
+        return max; //NGのためコメントアウト
+    }
+}
+
+4行目では、method()メソッドの呼び出しをしています。
+1に挿入するコードでコンパイル、実行ともに成功するものは次のどれですか。
+１つ選択してください。
+
+A. public int method(int ary)
+B. public void method(int[] ary)
+C. public int method(int[] ary)
+D. static int method(int ary)
+E. static void method(int[] ary)
+F. static int method(int[] ary)

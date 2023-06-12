@@ -1,0 +1,25 @@
+次のコードがあります。
+
+class Main {
+    void print(int i) {
+        System.out.println("A");
+    }
+    void print(long l) {
+        System.out.println("B");
+    }
+    void print(String s) {
+        System.out.println("C");
+    }
+    public static void main(String[] args) {
+        new Main().print(0B0000_0000_0000_0110);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. A
+B. B
+C. C
+D. D
+E. 実行時エラー

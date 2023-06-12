@@ -1,10 +1,12 @@
 package chap7.p321;
 
 class Test {
-    void loop() throws ArrayIndexOutOfBoundsException {
-        int[] num = {10, 20, 30};
-        for (int i = 0; i < 4; i++) {
-            System.out.println("num :" + num[i]);
+    void loop() {
+        Integer[] num = {10, 20,null ,30};
+        for (int i = 0; i < num.length; i++) {
+            if(num[i] != null){
+                System.out.println("num :" + num[i]);
+            }
         }
     }
 }

@@ -1,0 +1,20 @@
+次のコード(抜粋)があります。
+
+String[][] ary = {{"a"}, {"b", "c", "d"}};
+for (int i = 0; i < ary.length; i++) {
+    for (int j = 0; j < ary[i].length; j++) {
+        System.out.print(ary[i][j] + " ");
+    }
+    System.out.println();
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. abcd
+B. a
+   bcd
+C. a
+   b
+D. 実行時エラー
+

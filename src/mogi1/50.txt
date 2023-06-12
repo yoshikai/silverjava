@@ -1,0 +1,21 @@
+次のコードがあります。
+
+class Parent {
+    void set(Collection<String> set) {
+    }
+}
+
+class Child extends Parent {
+    void method(Map<Integer, String> map) {
+      [ 1 ]
+    }
+}
+
+1に挿入するとコンパイルが成功するコードは次のどれですか。
+1つ選択してください。
+
+A. super.set(map.values());
+B. set(map.values());
+C. super.set(map);
+D. set(super.map);
+E. set.forEach(s -> map);

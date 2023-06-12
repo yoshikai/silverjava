@@ -1,0 +1,34 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) {
+        print(args);
+    }
+    static void print(String... data) {
+        int i = 1;
+        for (String s : data) {
+            System.out.println((i++) + ") " + s);
+        }
+    }
+}
+
+実行する際は次とします。
+
+java Main a b c
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. 1)a
+   2)b
+   3)c
+B. 2)a
+   3)b
+   4)c
+C. 2)a
+   3)b
+D. 2)b
+   3)c
+E. 実行時エラー
+F. コードは実行されるが何も出力されない
+

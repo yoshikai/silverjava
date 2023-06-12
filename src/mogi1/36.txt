@@ -1,0 +1,15 @@
+次のコード(抜粋)があります。
+
+public class Foo {
+    int num;
+    [  1  ]
+}
+
+1に入るコードで、4行目のnum変数を初期化するものは次のどれですか？
+１つ選択してください。
+
+A. int setNum(int num){num = num; return num;}
+B. int setNum(int a){a = num; return a;}
+C. int setNum(int num){this.num = num; return num;}
+D. void setNum(int num){num = num;}
+E. void setNum(int a){a = num;}

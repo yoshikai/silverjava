@@ -1,0 +1,31 @@
+次のコードがあります。
+
+public class Main {
+    int a;
+    static int b;
+    Main() {
+        int i = 0;
+        while (i < 5) { i++; a++; b++; }
+    }
+    public static void main(String[] args) {
+        Main o1 = new Main();
+        Main o2 = new Main();
+        System.out.println(o1.a + " " + o1.b);
+        System.out.println(o2.a + " " + o2.b);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. 5 5
+   5 5
+B. 5 5
+   5 10
+C. 5 10
+   5 10
+D. 5 10
+   10 10
+E. 10 10
+   10 10
+

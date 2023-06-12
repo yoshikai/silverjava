@@ -1,0 +1,33 @@
+次のコードがあります。
+
+class A {
+    private final double data;
+    A(String data) {
+        this.data = Double.parseDouble(data);
+    }
+    A(double data) {
+        this.data = data;
+    }
+    A() {
+    }
+    public double getData() {
+        return data;
+    }
+}
+public class Main {
+    public static void main(String[] args) {
+        A a1 = new A("19.99");
+        A a2 = new A(10.0);
+        A a3 = new A();
+        System.out.println(a1.getData() + " " + a2.getData() + " " + a3.getData());
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. 19.99 10.0 0.0
+B. 4行目でコンパイルエラー
+C. 7行目でコンパイルエラー
+D. 9行目でコンパイルエラー
+E. 実行時エラー

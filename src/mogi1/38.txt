@@ -1,0 +1,35 @@
+次のコードがあります。
+[A.java]
+package a;
+public class A {
+    private int num;
+    protected A(int num) {
+        this.num = num;
+    }
+    public int getNum() {
+        return num;
+    }
+}
+
+[B.java]
+package b;
+import a.A;
+public class B extends A {
+    public B(int num) {
+        super(num);
+    }
+}
+class Main {
+    public static void main(String[] args) {
+        B obj = new B(10);
+        obj.getNum();
+    }
+}
+
+コンパイルした結果として正しい説明は次のどれですか。
+1つ選択してください。
+
+A. A.java,B.javaともにコンパイルに成功する
+B. A.java,B.javaともにコンパイルに失敗する
+C. A.javaはコンパイルに成功するが、B.javaはコンパイルに失敗する。
+D. A.javaはコンパイルに失敗するが、B.javaはコンパイルに成功する。

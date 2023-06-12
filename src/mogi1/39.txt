@@ -1,0 +1,26 @@
+次のコードがあります。
+
+class A {
+    static String val;
+    A(String val) {
+        this.val = val;
+    }
+    static String getVal() {
+        return val;
+    }
+}
+public class Main {
+    public static void main(String[] args) {
+        A obj = new A("Japan");
+        obj = null;
+        System.out.println(A.getVal());
+    }
+}
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. Japan
+B. null
+C. コンパイルエラー
+D. 実行時エラー
+

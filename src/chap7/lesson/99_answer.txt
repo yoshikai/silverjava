@@ -1,6 +1,8 @@
 [lesson7_1:B,C]
 ※P312参照
-RuntimeExceptionクラスのサブクラスの例外処理は任意です。
+RuntimeExceptionクラスのサブクラス
+(ArrayIndexOutOfBoundsExceptionやNullPointerException)
+の例外処理は任意です。（というか、そういう例外を出たらプログラマの恥）
 選択肢BのFileNotFoundException、選択肢CのIOExceptionは
 ExceptionクラスのサブクラスでRuntimeExceptionクラスをスーパークラスに持たないため
 例外処理は必須です。従って正解は選択肢B,C
@@ -97,7 +99,7 @@ finally区はcatchが有ろうがなかろうが、最終的に必ず実行さ�
 2. method内でforループ
 3. i <= 5と終了条件になっているため配列aryに対してArrayIndexOutOfBoundsExceptionが発生
 4. catch(ArrayIndexOutOfBoundsException)にてcatchし、"catch1"を出力
-5. finally区で"done"を出力
+5. finally区で"finally"を出力
 6. (try-catch-finallyブロックが終了したので)"done"を出力
 出力は"catch1 finally done."と出力したため選択肢Aが正解
 
@@ -123,7 +125,7 @@ Integer.parseIntメソッドに"a"を渡しているためNumberFormatException�
 [lesson7_15:D]
 MyCarはVehicleクラスのサブクラスで、各メソッドをオーバーライドしてます。
 check例外をスローするメソッドをオーバーライドする際は親クラスの例外と同じ例外、またはその例外クラスの
-サブクラスをスルーする必要があるため15行目を修正する必要がある。
+サブクラスをスローする必要があるため15行目を修正する必要がある。
 (または親クラスのgetSpeedメソッドにthrows IOExceptionを付加)
 従って選択肢Dが正解
 

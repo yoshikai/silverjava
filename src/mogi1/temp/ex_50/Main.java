@@ -10,6 +10,6 @@ class Parent {
 
 class Child extends Parent {
     void method(Map<Integer, String> map) {
-//    [   �@   ]
+//    [   1   ]
     }
 }

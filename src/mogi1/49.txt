@@ -1,0 +1,22 @@
+次のコード(抜粋)があります。
+
+class Parent {
+    <T> Collection<T> foo(Collection<T> c) {
+        return null;
+    }
+}
+
+class Child extends Parent {
+    [ 1 ]
+}
+
+1に挿入するとコンパイルエラーになるコードは次のどれですか。
+1つ選択してください。
+
+A. <T> Collection<T> foo(Collection<T> c){return null;}
+B. <T> List<T> foo(List<T> c){return null;}
+C. <T> List<T> foo(Collection<String> c){return null;}
+D. <T> Collection<T> foo(Map c){return null;}
+E. 選択肢Bと選択肢C
+F. 選択肢Bと選択肢D
+G. 選択肢Cと選択肢C

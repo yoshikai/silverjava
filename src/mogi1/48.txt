@@ -1,0 +1,22 @@
+次のコードがあります。
+
+import java.util.Arrays;
+
+public class Main {
+    public static void main(String[] args) {
+        int[] a = {2, 4, 5, 6, 9};
+        int[] b = {2, 4, 6, 8, 9};
+        System.out.print(Arrays.mismatch(a, b) + " ");
+        System.out.println(Arrays.compare(a, b));
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+１つ選択してください。
+
+A. false false
+B. false -1
+C. 2 false
+D. 2-1
+E. コンパイルエラー
+F. 実行時エラー
