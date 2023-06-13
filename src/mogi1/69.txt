@@ -1,0 +1,31 @@
+次のコードがあります。
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+public class Main {
+    public static void main(String[] args) {
+       try {
+           method();
+        }
+        [  1  ]
+    }
+    static void method() throws IllegalArgumentException, IOException {
+        if (false) {
+            throw new FileNotFoundException();
+        } else {
+            throw new IllegalArgumentException();
+        }
+    }
+}
+
+コンパイルが成功するために、1に挿入するコードとして正しいものは次のどれですか。
+1つ選択してください。
+
+A. catch(IllegalArgumentException e){}
+   catch(FIleNotFoundException e){}
+B. catch(FIleNotFoundException e){}
+   catch(IllegalArgumentException e){}
+C. catch(IOException e){}
+D. catch(IllegalArgumentException | FIleNotFoundException e){}
+E. catch(IOException | FIleNotFoundException e){}

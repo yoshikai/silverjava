@@ -1,0 +1,25 @@
+次のコードがあります。
+
+class A {
+    A() { this(10); System.out.print("a ");}
+    A(int i) { System.out.print("b ");}
+}
+class B extends A {
+    B() { super(); System.out.print("c ");}
+    B(String s) { this(); System.out.print("d ");}
+}
+public class Main {
+    public static void main(String[] args) {
+        new B("hello");
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+1つ選択してください。
+
+A. d c a b
+B. b a c d
+C. c d a b
+D. a b c d
+E. コンパイルエラー
+F. 実行時エラー

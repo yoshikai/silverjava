@@ -1,0 +1,39 @@
+次のコードがあります。
+
+class A {
+    private void print() {
+        System.out.print("A ");
+    }
+    public void b() {
+        print();
+    }
+}
+class B extends A {
+    void print() {
+        System.out.print("B ");
+    }
+    public void b() {
+        print();
+    }
+}
+class C extends B {
+    void print() {
+        System.out.print("C ");
+    }
+}
+public class Main {
+    public static void main(String[] args) {
+        new A().b();
+        new B().b();
+        new C().b();
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+1つ選択してください。
+
+A. A B C
+B. B B B
+C. B B C
+D. A B B
+E. コンパイルエラー

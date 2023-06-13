@@ -1,0 +1,37 @@
+要件として以下があります。
+
+【要件】
+・以下の２つのクラスはともにcode１モジュールに属する
+・カレントディレクトリはex-79とする
+・Foo.javaとBar.javaは、ex-79\codeディレクトリに保存されている
+・各クラスのパッケージに該当するディレクトリはまだ作成されていないため、コンパイル時に指定する
+・適切なmodule-info.classはclassディレクトリ内に保存されている
+
+[Foo.java]
+package abc;
+import xyz.Bar;
+
+public class Foo {
+    public static void main(String[] args) {
+        System.out.println("Main active");
+        Bar.x();
+    }
+}
+
+[Bar.java]
+package xyz;
+
+public class Bar {
+    public static void x() {
+        System.out.println("Bar::x");
+    }
+}
+
+2つのファイルをコンパイルするコマンドラインとして正しいものは次のどれですか。
+1つ選択してください。
+
+A. javac -cp code Foo.java Bar.java
+B. javac -cp . .\code\Foo.java .\code\Bar.java
+C. javac -d code Foo.java Bar.java
+D. javac -d code .\code\Foo.java .\code\Bar.java
+E. javac -p code .\code\Foo.java .\code\Bar.java

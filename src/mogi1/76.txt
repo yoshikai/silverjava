@@ -1,0 +1,21 @@
+com.fooモジュールは、com.barモジュールへの依存があります。
+また、com.fooモジュールはcom.fooパッケージを外部に公開したいと思います。
+正しい定義は次のどれですか。
+1つ選択してください。
+
+A. module com.foo {
+    requires com.bar;
+    exports com.foo;
+   }
+B. module com.foo {
+     requires com.bar;
+     use com.foo;
+   }
+C. module com.foo {
+     depend com.bar;
+     use com.foo;
+   }
+D. module com.foo {
+     depend com.bar;
+     exports com.foo;
+   }

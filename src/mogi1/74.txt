@@ -1,0 +1,8 @@
+基本的なパッケージが含まれるモジュール名は次のどれですか。
+1つ選択してください。
+
+A. java.basicモジュール
+B. java.seモジュール
+C. java.langモジュール
+D. java.baseモジュール
+E. java.jdkモジュール

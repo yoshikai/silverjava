@@ -1,0 +1,16 @@
+次のコード(抜粋)があります。
+
+void method() throws ApplicationException{
+  //省略
+}
+
+throws ApplicationExceptionを削除するとコンパイルエラーとなります。
+説明として正しいものは次のどれですか。
+2つ選択してください。
+
+A. ApplicationExceptionはErrorクラスのサブクラスである
+B. ApplicationExceptionは非チェック例外クラスである
+C. ApplicationExceptionはチェック例外クラスである
+D. method()メソッド内では、ApplicationExceptionクラスのオブジェクトのみスローできる
+E. method()メソッド内では、ApplicationExceptionクラスもしくは
+   そのサブクラスのオブジェクトがスローできる

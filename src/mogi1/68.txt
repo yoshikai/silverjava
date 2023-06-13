@@ -1,0 +1,20 @@
+次のコードがあります。
+
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        List<String> color = Arrays.asList("red", "blue", "green");
+        [  1  ]
+        System.out.println(color);
+    }
+}
+
+コンパイル、実行が成功し[RED, BLUE, GREEN]の出力結果をえるために、
+1に挿入するコードとして正しいものは次のどれですか。
+1つ選択してください。
+
+A. for(String s: color){ color = s.toUpperCase();}
+B. color.replaceAll((String s ) -> {return s.toUpperCase();})
+C. color.replaceAll(s -> toUpperCase());
+D. for(int i=0; i< color.size(); i++){color[1].toUpperCase();}

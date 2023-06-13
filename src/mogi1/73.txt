@@ -1,0 +1,22 @@
+次のコードがあります。
+
+public class Main {
+    public static void main(String[] args) { // line1
+        method(); // line2
+    }
+    static void method() {  // line3
+        throw new IOException();
+    }
+}
+
+コンパイルが成功するために、説明として正しいものは次のどれですか。
+1つ選択してください。
+
+A. line1のmain()定義時に「throws IOException」を追加する
+B. line3のmethod()定義時に「throws IOException」を追加する
+C. line1とline3のそれぞれのメソッド定義時に「throws IOException」を追加する
+D. line1とline3にthrowsは使用しない。line2の「method();」を
+   tyr-catchで囲み、catchブロックではIOException型でキャッチする
+E. line1とline3にthrowsは使用しない。line2の「method();」を
+   try-catchで囲み、catchブロックでは、FileNotFoundException型でキャッチする
+

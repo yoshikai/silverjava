@@ -1,0 +1,41 @@
+次のコードがあります。
+
+[A.java]
+package com.abc;
+public class A {
+    public int x = 40;
+
+    protected A() {
+    }
+}
+[B.java]
+package com.xyz;
+import com.abc.A;
+public class B extends A {  // line1
+    public int x = 50;  // line2
+
+    public B() {
+        super(); // line3
+    }
+}
+[Main.java]
+package com.seshop;
+import com.abc.A;
+import com.xyz.B;
+public class Main {
+    public static void main(String[] args) {
+        A obj = new B();   // line4
+        System.out.println(obj.x);  // line5
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+1つ選択してください。
+
+A. line1でコンパイルエラー
+B. line2でコンパイルエラー
+C. line3でコンパイルエラー
+D. line4でコンパイルエラー
+E. line5でコンパイルエラー
+F. 40
+G. 50

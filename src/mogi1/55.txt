@@ -1,0 +1,25 @@
+次のコードがあります。
+
+interface A {
+    void use();
+}
+abstract class B /* line1 */ {
+    // line2
+    public void use() {}
+    public abstract void x();
+}
+class C extends B implements A {
+    // line3
+}
+
+コンパイルを成功させるために、コードを修正するものは次のどれですか。
+1つ選択してください。
+
+A. line2: @Override
+B. line1: implements A
+   line2: @Override
+C. line1: implements A
+   line2: @Override
+   line3: public void use(){}
+D. line3: public void x(){}
+E. line3: public void use(){}

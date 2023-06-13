@@ -1,0 +1,22 @@
+次のコードがあります。
+
+interface Foo {
+    int num1 = 10;
+    final int num2 = 20;
+}
+public class Main implements mogi1.temp.ex_51.Foo {
+    public static void main(String[] args) {
+        [  1  ]
+    }
+}
+
+1に挿入するとコンパイルが成功するコードは次のどれですか。
+4つ選択してください。
+
+A. System.out.println(Foo.num1);
+B. System.out.println(num1);
+C. System.out.println(Foo.num1++):
+D. System.out.println(num1++);
+E. System.out.println(num2);
+F. System.out.println(new Foo().num2);
+G. System.out.println(new Main().num2);

@@ -1,0 +1,16 @@
+次の実行例があります。
+
+【プロンプトでのプログラムの実行結果】
+プロンプト>java --module-path . [ 1 ]　com.seshop
+com.seshop file:[省略]/1/./com.seshop/
+require java.base
+contains com.seshop.main
+
+上記javaコマンド実行時に、com.seshopモジュール記述子の情報を参照するために、
+[ 1 ]に入るオプションは次のどれですか。
+1つ選択してください。
+
+A. --show-module-resolution
+B. --list-modules
+C. --desribe-module
+D. --module

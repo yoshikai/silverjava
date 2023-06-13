@@ -1,0 +1,22 @@
+次のコードがあります。
+
+public class Main {
+    void methodA() throws Exception {}   // line1
+    void methodB() throws RuntimeException {}  // line2
+    public static void main(String[] args) {
+        Main obj = new Main();
+        obj.methodA();   // line3
+        obj.methodB();   // line4
+    }
+}
+
+説明として正しいものは次のどれですか。
+1つ選択してください。
+
+A. line1のみコンパイルエラー
+B. line2のみコンパイルエラー
+C. line3のみコンパイルエラー
+D. line4のみコンパイルエラー
+E. line1とline2でコンパイルエラー
+F. line3とline4でコンパイルエラー
+G. コンパイルは成功する

@@ -1,0 +1,9 @@
+次のコードで、インターフェースに記述できるものは次のどれですか。
+2つ選択してください。
+
+A. public void method(int a);
+B. public abstract void method(int a);
+C. private void method(int a);
+D. public void method(int a);
+E. protected void method(int a);
+

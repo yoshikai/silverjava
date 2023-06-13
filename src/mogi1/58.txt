@@ -1,0 +1,23 @@
+次のコードがあります。
+
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Map<Integer, String> map = new HashMap<>();
+        map.put(1, "a");
+        map.put(2, "b");
+        map.put(1, "c");
+        map.put(3, "b");
+        System.out.print("Size: " + map.size());
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+1つ選択してください。
+
+A. Size: 2
+B. Size: 3
+C. Size: 4
+D. コンパイルエラー
+E. 実行時エラー

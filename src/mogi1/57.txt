@@ -1,0 +1,38 @@
+次のコードがあります。
+
+import java.*;
+
+public class Main {
+    static Map<Integer, String> map = null;
+    static List<Integer> keys = null;
+    static String[] values = null;
+    static {
+        map = new HashMap<>();
+        keys = new ArrayList<>(List.of(10, 20, 30));
+        values = new String[]{"red", "pink", "blue"};
+    }
+    Main() {
+        for (int i = 0; i < keys.size(); i++) {
+            map.put(keys.get(i), values[i]);
+        }
+    }
+    public static void main(String[] args) {
+        Main obj = new Main();
+        System.out.print(map.size() + " ");
+        obj = null;
+        map.clear();
+        keys.clear();
+        values = new String[0];
+        System.out.print(map.size() + " " + keys.size() + " " + values.length);
+    }
+}
+
+コンパイル、実行した結果として正しいものは次のどれですか。
+1つ選択してください。
+
+A. 3 0 0 0
+B. 6 0 0 0
+C. 3 3 3 3
+D. 6 6 6 6
+E. コンパイルエラー
+F. 実行時エラー

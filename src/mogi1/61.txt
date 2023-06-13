@@ -1,0 +1,26 @@
+次のコードがあります。
+
+interface Calc {
+    public int exec(int x, int y);
+}
+public class Main {
+    public static void main(String[] args) {
+        int s = 0;
+        Calc c = new Calc() {               //9
+            @Override                       //10
+            public int exec(int x, int y) { //11
+                return x + y;               //12
+            }                               //13
+        };                                  //14
+        s = c.exec(3, 5);
+        System.out.println(s);
+    }
+}
+
+9-14行目を置き換えた場合、実行結果が同じになるコードは次のどれですか。
+1つ選択してください。
+
+A. Calc c = x, y -> x +y;
+B. Calc c = (int a,b) -> a + b
+C. Calc c = (m, n) -> {return m + n;}
+D. Calc c = (w, y) -> {return y + z;}

@@ -1,0 +1,35 @@
+次のコードがあります。
+
+class Main {
+    private int a, b;
+
+    public Main(int a, int b) {
+        this.a = a;
+        this.b = b;
+    }
+    [  1  ]
+}
+
+コンパイルが成功するために、1に挿入するとコードとして正しいものは次のどれですか。
+1つ選択してください。
+
+A. public Main(){
+     this();
+   }
+B. public Main(){
+     this(0,0);
+   }
+C. public Main(){
+     Main(0,0);
+   }
+D. public Main(){
+     super(0,0);
+   }
+E. public Main(){
+     super();
+     this(0,0);
+   }
+F. public Main(){
+     this(0,0);
+     super();
+   }

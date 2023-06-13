@@ -1,0 +1,20 @@
+次のコードがあります。
+
+public interface Foo {
+    public default int a() { return 0;}         //2
+    private default void b() {}                 //3
+    public default int c(int num) { return 0;}  //4
+    default void d(int num) {}                  //5
+    private static void e() {}                  //6
+    static void f() {}                          //7
+}
+
+コンパイルエラーになるのはどれですか。
+1つ選択してください。
+
+A. 2行目
+B. 3行目
+C. 4行目
+D. 5行目
+E. 6行目
+F. 7行目
