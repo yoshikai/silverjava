@@ -2,7 +2,7 @@
 1つ選択してください。
 なお、実行時はコンパイルを行った同じディレクトリで行うものとする。
 
-A. java -p code -m code\abc.Foo
-B. java -p code code\abc.Foo
-C. java -classpath code -m code\abc.Foo
-D. java -classpath code code\abc.Foo
+A. java -p code -m code/abc.Foo
+B. java -p code code/abc.Foo
+C. java -classpath code -m code/abc.Foo
+D. java -classpath code code/abc.Foo

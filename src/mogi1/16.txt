@@ -4,11 +4,11 @@ public class Main {
     public static void main(String[] args) {
         int val = 1;
         switch (val) {
-            case 0:
+            case 0:                     //5
                 System.out.print("X ");
-            case 1: 2:
+            case 1: 2:                  //7
                 System.out.print("Y ");
-            case 10:
+            case 10:                    //9
                 System.out.print("Z ");
         }
     }

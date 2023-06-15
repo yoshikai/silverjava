@@ -1,3 +1,5 @@
+package calclator;
+
 import java.util.Scanner;
 class Operator{
     public int calcPlus(int i,int j) {
@@ -13,7 +15,7 @@ class Operator{
         return i/j;
     }
 }
-public class Calc {
+public class SakamotoCalc {
     public static void main(String[] args) throws Exception {
         System.out.println("次の形式に沿って入力してください\r\n" +
                 "2つの数字をint i, int l\r\n" +

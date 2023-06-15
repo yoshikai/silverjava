@@ -1,12 +1,12 @@
 次のコードがあります。
 
-interface Calc {
+interface calclator.Calc {
     public int exec(int x, int y);
 }
 public class Main {
     public static void main(String[] args) {
         int s = 0;
-        Calc c = new Calc() {               //9
+        calclator.Calc c = new calclator.Calc() {               //9
             @Override                       //10
             public int exec(int x, int y) { //11
                 return x + y;               //12
@@ -20,7 +20,7 @@ public class Main {
 9-14行目を置き換えた場合、実行結果が同じになるコードは次のどれですか。
 1つ選択してください。
 
-A. Calc c = x, y -> x +y;
-B. Calc c = (int a,b) -> a + b
-C. Calc c = (m, n) -> {return m + n;}
-D. Calc c = (w, y) -> {return y + z;}
+A. calclator.Calc c = x, y -> x +y;
+B. calclator.Calc c = (int a,b) -> a + b
+C. calclator.Calc c = (m, n) -> {return m + n;}
+D. calclator.Calc c = (w, y) -> {return y + z;}

@@ -10,4 +10,4 @@ System.out.println(ans);
 A. String ans = num < 4 ? "X" ? num < 6 ? "Y" ? num < 8 ? "Z" : "S";
 B. String ans = num < 4 ? "X" : num < 6 ? "Y" : num < 8 : "Z" : "S";
 C. String ans = num < 4 ? "X" : num < 6 ? "Y" : num < 8 ? "Z" : "S";
-D. String ans = num < 4 ? "X" : num < 6 ? "Y" : num < 8 ? "Z" : "S";
+D. String ans = num < 4 ? "X" : num < 6 : "Y" : num < 8 ? "Z" : "S";

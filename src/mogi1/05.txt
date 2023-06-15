@@ -15,7 +15,7 @@ public class Main {
 
 【要件】
 ・Main.javaは、ex-5¥src¥com¥seディレクトリに保存されている
-・コンパイル後のクラスふぁいるは、class以下に保存したい
+・コンパイル後のクラスふぁいるは、classes以下に保存したい
 ・コンパイル、実行は、ex-5ディレクトリで行うものとする。
 
 【ディレクトリ階層】
@@ -35,9 +35,7 @@ B. javac -d classes src\com\se\Main.java
    java -cp classes\com\se\Main
 C. javac -d classes src\com\se\Main.java
    java -cp src com.se.Main
-D. javac -d classes\com\se\Main.java
-   java -cp src com.se.Main
-D. javac -d classes\com\se\Main.java
+D. javac -d classes\com\se Main.java
    java -cp src com.se.Main
 E. javac -d src\com\se Main.java
    java -cp classes\com\se Main

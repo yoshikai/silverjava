@@ -6,16 +6,17 @@ import java.util.*;
 /**
  * 模擬試験添削ツール
  */
-public class MogiQaTool {
+public class PracticeCorrection {
 
-    public final static String MOGI_MOHAN_KAITOU = "mogi1_answer.txt";
-    //模範解答の場所
+    //模擬試験解答のファイルの場所
     public final static String MOGI_MOHAN_KAITOU_PATH = "./mogi";
+    //模擬試験解答のファイル名
+    public final static String MOGI_MOHAN_KAITOU = "mogi1_answer.txt";
     //受講生の回答欄の置き場所
     final static String RESULT_PATH = "./result";
     public static void main(String[] args) throws IOException {
         //mogiフォルダにある模範解答を取得
-        Mohan mohan = new Mohan(MogiQaTool.MOGI_MOHAN_KAITOU_PATH, MogiQaTool.MOGI_MOHAN_KAITOU);
+        Mohan mohan = new Mohan(PracticeCorrection.MOGI_MOHAN_KAITOU_PATH, PracticeCorrection.MOGI_MOHAN_KAITOU);
         Map<String, String> resultMap = mohan.getAnswerMap();
         //resultフォルダにあるtextファイル一覧を取得
         File dir = new File(RESULT_PATH);

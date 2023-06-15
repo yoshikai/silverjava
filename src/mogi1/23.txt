@@ -2,11 +2,11 @@
 
 String str1 = "Orange";
 String str2 = str1.intern();
-String str3 = new String("Orange");
-if (str1 == str2) {
+String str3 = new String("Orange"); //5
+if (str1 == str2) {                 //6
     System.out.print(str1 + " == " + str2 + ", ");
 }
-if (str1.equals(str3)) {
+if (str1.equals(str3)) {            //9
     System.out.println(str1 + " equals " + str3);
 }
 

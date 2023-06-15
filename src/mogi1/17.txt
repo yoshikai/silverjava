@@ -2,15 +2,15 @@
 
 public class Main {
     public static void main(String[] args) {
-        String s1 = "MON";
-        String[] s2 = {"TUE"};
-        final String s3 = "FRI";
-        switch (s2[0]) {
-            case s1:
+        String s1 = "MON";          //3
+        String[] s2 = {"TUE"};      //4
+        final String s3 = "FRI";    //5
+        switch (s2[0]) {            //6
+            case s1:                //7
                 System.out.print("Monday ");
-            case "TUE":
+            case "TUE":             //9
                 System.out.print("Tuesday ");
-            case s3:
+            case s3:                //11
                 System.out.print("Friday ");
         }
     }
