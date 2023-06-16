@@ -1,14 +1,17 @@
 package mogi1;
-
+class Parent {
+    String name = "A";                      //4
+    void print() { System.out.print(name);} //5
+}
+class Child extends Parent {
+    String name = "B";                      //8
+    void print() { System.out.print(name);} //9
+}
 public class Main {
-
-    public static void main(String[] args){
-        int a = 100;
-        int b = ++a;
-        int c = b++;
-        int d = ++c;
-        System.out.println((a < b) ? (b < c) : (c < d) ? b : c);
-
+    public static void main(String[] args) {
+        Parent obj = new Child();           //13
+        obj.print();                        //14
+        System.out.println(" " + obj.name); //15
     }
 
 }

@@ -1,15 +1,14 @@
 次のコードがあります。
 
 class A {
-    private final double data;
-    A(String data) {
-        this.data = Double.parseDouble(data);
+    private final double data;                  //2
+    A(String data) {                            //3
+        this.data = Double.parseDouble(data);   //4
     }
-    A(double data) {
-        this.data = data;
+    A(double data) {                            //6
+        this.data = data;                       //7
     }
-    A() {
-    }
+    A() {}                                      //9
     public double getData() {
         return data;
     }

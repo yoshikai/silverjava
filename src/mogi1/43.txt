@@ -8,10 +8,10 @@ public class Main {
         while (i < 5) { i++; a++; b++; }
     }
     public static void main(String[] args) {
-        Main o1 = new Main();
-        Main o2 = new Main();
-        System.out.println(o1.a + " " + o1.b);
-        System.out.println(o2.a + " " + o2.b);
+        Main o1 = new Main();                   //9
+        Main o2 = new Main();                   //10
+        System.out.println(o1.a + " " + o1.b);  //11
+        System.out.println(o2.a + " " + o2.b);  //12
     }
 }
 

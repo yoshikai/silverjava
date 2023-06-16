@@ -4,31 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="模擬試験１の練習問題を追加">
-      <change afterPath="$PROJECT_DIR$/src/calclator/CalclatorSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calclator/FukuiCalc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calclator/KubotaCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calclator/KubotaCalc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calclator/SakamotoCalc2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calclator/SakamotoCalc3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/Mogi44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mogi1/Mogi45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice1/Q10/sample.java" afterDir="false" />
+    <list default="true" id="0dc5d376-a6e2-4a43-868a-5185f3626691" name="変更" comment="模擬試験１の練習問題の修正と解説の追加">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/吉開強.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result/吉開強.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calclator/SakamotoCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mogi1/05.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/05.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mogi1/08.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/08.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mogi1/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mogi1/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/17.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mogi1/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/18.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mogi1/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/23.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mogi1/61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/61.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mogi1/80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mogi/mogi1_answer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mogi/mogi1_answer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/【採点済み】吉開強.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result/【採点済み】吉開強.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/53.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mogi1/99_comment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/99_comment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tools/MogiQaTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/PracticeCorrection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mogi1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mogi1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +71,11 @@
       <recent name="C:\Users\yoshi\IdeaProjects\silver_java\src\chap2\lesson" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\cross_abilities\silverjava\result" />
       <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam07" />
       <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam06" />
       <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam05" />
       <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam04" />
-      <recent name="C:\Users\User\cross_abilities\silverjava\src\chap6\lesson\exam03" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="chap6.lesson.exam03" />
@@ -96,7 +84,7 @@
       <recent name="chap6.lesson.exam04" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.mogi1.Main">
+  <component name="RunManager" selected="アプリケーション.PracticeCorrection">
     <configuration name="CalclatorSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calclator.CalclatorSample" />
       <module name="silver_java" />
@@ -138,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SakamotoCalc3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calclator.SakamotoCalc3" />
+    <configuration name="PracticeCorrection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tools.PracticeCorrection" />
       <module name="silver_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calclator.*" />
+          <option name="PATTERN" value="tools.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="アプリケーション.PracticeCorrection" />
         <item itemvalue="アプリケーション.mogi1.Main" />
         <item itemvalue="アプリケーション.CalclatorSample" />
         <item itemvalue="アプリケーション.SakamotoCalc3" />
         <item itemvalue="アプリケーション.SakamotoCalc3 (2)" />
-        <item itemvalue="アプリケーション.SakamotoCalc3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686640646213</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="模擬試験１の練習問題の修正と解説の追加">
+      <created>1686812533433</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686812533433</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,7 +405,8 @@
     <MESSAGE value="模擬試験１の問題を追加" />
     <MESSAGE value="Chapter6の練習問題を修正" />
     <MESSAGE value="模擬試験１の練習問題を追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="模擬試験１の練習問題を追加" />
+    <MESSAGE value="模擬試験１の練習問題の修正と解説の追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="模擬試験１の練習問題の修正と解説の追加" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -419,11 +415,6 @@
           <url>file://$PROJECT_DIR$/src/chap5/p194/Main.java</url>
           <line>22</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/mogi1/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
